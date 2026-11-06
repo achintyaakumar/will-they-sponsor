@@ -40,8 +40,13 @@ The DOL spreadsheets in `data/raw/` stay on your machine. Only the parquet files
 
 ## 3. Get the keys
 
-**Anthropic API key.** Create one at console.anthropic.com under API Keys. Under Billing, set a monthly
-spend limit; $10 is plenty. Each daily run is capped at 80 model calls (`MAX_LLM_CALLS`).
+**Claude, either way:**
+- *Your Claude subscription:* run `claude setup-token` in your own terminal and save the token as
+  `CLAUDE_CODE_OAUTH_TOKEN`. The calls count against your plan's usage limits.
+- *An API key:* create one at console.anthropic.com under API Keys and save it as `ANTHROPIC_API_KEY`.
+  Under Billing, set a monthly spend limit; $10 is plenty.
+
+Each daily run is capped at 80 model calls (`MAX_LLM_CALLS`). A typical day needs well under that.
 
 **Cloudflare.** Sign up at cloudflare.com, then:
 - Account ID: Workers & Pages → the Account ID in the right-hand column.
@@ -54,7 +59,7 @@ In the repo, go to Settings → Secrets and variables → Actions.
 
 | Secret | Value |
 |---|---|
-| `ANTHROPIC_API_KEY` | the Anthropic key |
+| `CLAUDE_CODE_OAUTH_TOKEN` or `ANTHROPIC_API_KEY` | the subscription token or the API key |
 | `CLOUDFLARE_API_TOKEN` | the Cloudflare token |
 | `CLOUDFLARE_ACCOUNT_ID` | the account ID |
 
@@ -73,7 +78,7 @@ it to `https://will-they-sponsor.pages.dev` (or your project name). After that i
 10:23 UTC.
 
 Without the Cloudflare secrets the job still builds, and you can download the site from the run's
-"site" artifact. Without the Anthropic key it reuses cached classifications, and new postings keep
+"site" artifact. Without either Claude secret it reuses cached classifications, and new postings keep
 their rule-based verdict.
 
 **Custom domain:** Workers & Pages → your project → Custom domains.
