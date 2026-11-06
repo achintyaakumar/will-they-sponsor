@@ -1,0 +1,8 @@
+requests==2.34.2
+beautifulsoup4==4.15.0
+pandas==3.1.1
+pyarrow==26.0.1
+pytest==9.2.0
+# only for `python -m vjb filings` (reading the DOL spreadsheets), not the daily job
+python-calamine==0.9.1
+openpyxl==3.1.5

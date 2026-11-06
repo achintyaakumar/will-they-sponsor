@@ -1,0 +1,742 @@
+# Candidate employers. Format: Display Name [| token1, token2]
+# Tokens are ATS board slugs; when omitted they're derived from the name.
+# Each candidate is probed on Greenhouse, Ashby, then Lever; misses are dropped.
+
+# Payments / fintech
+Stripe
+Plaid
+Brex
+Ramp
+Mercury
+Chime
+Affirm
+SoFi
+Robinhood
+Coinbase
+Kraken
+Gemini
+Circle
+Ripple
+Chainalysis
+Marqeta
+Remitly
+Betterment
+Wealthfront
+Acorns
+Carta
+Gusto
+Rippling
+Deel
+Toast | toast, toasttab
+Klarna
+Navan
+Payoneer
+Melio
+Mercury Financial
+Bilt Rewards | biltrewards, bilt
+Modern Treasury | moderntreasury
+Unit | unit
+Alloy | alloy
+Persona | persona, withpersona
+Checkr
+
+# AI / ML
+Anthropic
+OpenAI
+Scale AI | scaleai
+Databricks
+Hugging Face | huggingface
+Cohere
+Perplexity | perplexity, perplexityai
+Harvey
+Glean | gleanwork, glean
+Mistral AI | mistral
+Together AI | togetherai
+Runway | runwayml, runway
+Character.AI | character
+Cerebras | cerebrassystems, cerebras
+Groq
+SambaNova | sambanovasystems
+Lambda | lambdalabs, lambda
+CoreWeave | coreweave
+Anyscale
+Weights & Biases | wandb
+Pinecone
+Replit
+Cursor | anysphere, cursor
+Cognition | cognition
+Sierra | sierra
+Writer | writer
+Jasper
+ElevenLabs | elevenlabs
+Abridge
+Hebbia
+Decagon
+LangChain | langchain
+Modal | modal
+Baseten
+Fireworks AI | fireworksai
+Snorkel AI | snorkelai
+Labelbox
+Arize AI | arizeai
+
+# Infra / dev tools / data
+Datadog
+MongoDB
+Confluent
+Cockroach Labs | cockroachlabs
+Elastic
+GitLab
+HashiCorp
+Cloudflare
+Fastly
+Vercel
+Netlify
+Postman
+Sentry
+PagerDuty
+New Relic | newrelic
+Sumo Logic | sumologic
+Grafana Labs | grafanalabs
+Temporal | temporal, temporaltechnologies
+Fivetran
+dbt Labs | dbtlabsinc, dbtlabs
+Hex | hex, hextechnologies
+Retool
+Airtable
+Webflow
+Figma
+Notion
+Linear
+Asana
+Atlassian
+Dropbox
+Box
+Twilio
+Okta
+Zapier
+Airbyte
+Starburst
+ClickHouse
+SingleStore
+Redis
+Neo4j
+Supabase
+PlanetScale
+Render
+Fly.io | flyio
+Docker
+JFrog
+CircleCI
+LaunchDarkly
+Snyk
+Sourcegraph
+Mux
+Algolia
+Amplitude
+Mixpanel
+Heap
+Segment
+Braze
+Iterable
+Klaviyo
+Attentive
+Gong | greenhouse:gong, ashby:gong, lever:gong  # other boards with this slug are different companies
+Outreach
+Highspot
+Intercom
+Zendesk
+Calendly
+Miro
+ClickUp
+Loom
+Canva
+Grammarly
+Duolingo
+Coursera
+Chegg
+Quizlet
+Instructure
+Lucid Software | lucidsoftware, lucid
+Qualtrics
+Pluralsight
+Podium
+Weave
+Domo
+
+# Security
+Wiz | wizinc, wiz
+Vanta
+Drata
+Tanium
+Rubrik
+Cohesity
+Abnormal Security | abnormalsecurity
+Arctic Wolf | arcticwolf
+Huntress
+Expel
+1Password | 1password
+Chainguard
+Material Security | materialsecurity
+Island
+Cyera
+Semgrep
+Socure
+
+# Consumer / marketplaces / social
+Airbnb
+DoorDash | doordash, doordashusa
+Instacart
+Lyft
+Pinterest
+Reddit
+Discord
+Snap
+Roblox
+Epic Games | epicgames
+Riot Games | riotgames
+Niantic
+Twitch
+Spotify
+Etsy
+Wayfair
+Peloton
+Squarespace
+Nextdoor
+Thumbtack
+Faire
+Whatnot
+StockX
+GOAT | goatgroup, goat
+OfferUp
+Poshmark
+Gopuff
+Sweetgreen
+Strava
+Tinder | tinder
+Hinge
+Bumble
+Grubhub
+Yelp
+Zillow
+Redfin
+Opendoor
+Compass
+Hims & Hers | himsandhers, hims
+Ro | ro
+Noom
+Calm
+Headspace
+Oura | oura, ouraring
+Whoop
+
+# Health / bio
+Benchling
+Tempus
+Flatiron Health | flatironhealth
+Komodo Health | komodohealth
+Color | color
+Devoted Health | devotedhealth
+Oscar Health | oscar, oscarhealth
+Zocdoc
+Spring Health | springhealth
+Lyra Health | lyrahealth
+Cityblock Health | cityblockhealth
+Included Health | includedhealth
+Recursion | recursionpharmaceuticals, recursion
+Insitro
+Ginkgo Bioworks | ginkgobioworks, ginkgo
+Natera
+
+# Hardware / mobility / defense / space
+Anduril | andurilindustries, anduril
+Shield AI | shieldai
+Saronic
+Hadrian
+Palantir
+SpaceX
+Relativity Space | relativity, relativityspace
+Rocket Lab | rocketlab
+Firefly Aerospace | fireflyspace, firefly
+Joby Aviation | jobyaviation
+Archer Aviation | archer, archeraviation
+Zipline | flyzipline, zipline
+Skydio
+Waymo
+Nuro
+Aurora | aurorainnovation
+Zoox
+Applied Intuition | appliedintuition
+Rivian
+Lucid Motors | lucidmotors
+Samsara
+Verkada
+Flock Safety | flocksafety
+Flexport
+Formlabs
+Boston Dynamics | bostondynamics
+Figure AI | figureai, figure
+1X Technologies | 1x
+Physical Intelligence | physicalintelligence
+Astranis
+Varda Space | vardaspace, varda
+Impulse Space | impulsespace
+Hermeus
+Boom Supersonic | boomsupersonic
+Commonwealth Fusion Systems | cfs, commonwealthfusionsystems
+Helion Energy | helionenergy, helion
+Redwood Materials | redwoodmaterials
+Form Energy | formenergy
+Tesla
+Neuralink
+
+# Enterprise / misc
+HubSpot
+Lattice
+Ironclad
+Vimeo
+Squarespace
+Smartsheet
+Procore
+ServiceTitan
+Toast
+Gainsight
+Seismic
+Sprinklr
+Yext
+Medallia
+Mozilla
+Wikimedia | wikimedia
+Khan Academy | khanacademy
+The New York Times | thenewyorktimes, nytimes
+Vox Media | voxmedia
+Bloomberg
+Two Sigma | twosigma
+Jane Street | janestreet
+Citadel
+Hudson River Trading | hudsonrivertrading, wehrtyou
+Jump Trading | jumptrading
+DRW
+IMC Trading | imc
+Optiver
+Akuna Capital | akunacapital
+Five Rings | fiverings
+Point72
+D. E. Shaw | deshaw
+
+# ---- second wave (added after the first run)
+# AI / ML
+Adept
+Contextual AI | contextualai
+Imbue
+Reka | reka, rekaai
+Suno
+Pika | pika, pikalabs
+Luma AI | lumaai, luma
+Ideogram
+Synthesia
+Descript
+Gamma | gamma, gammaapp
+Clay | clay, claylabs
+Mercor
+Turing | turing, turingcom
+Invisible Technologies | invisibletech, invisible
+Surge AI | surgeai
+Hippocratic AI | hippocraticai
+Ambience Healthcare | ambiencehealthcare, ambience
+Tennr
+Rad AI | radai
+Vapi
+Bland AI | blandai, bland
+Retell AI | retellai
+Deepgram
+AssemblyAI | assemblyai
+Cartesia
+Hume AI | humeai, hume
+Lindy | greenhouse:lindy, ashby:lindy, lever:lindy  # other boards with this slug are different companies
+Factory | factory, factoryai
+Magic | magic, magicdev
+Poolside | poolside, poolsideai
+Augment Code | augmentcode, augment
+Codeium | codeium, windsurf, exafunction
+Warp | warp, warpdev
+Zed Industries | zed, zedindustries
+Graphite | graphite, screenplay
+CodeRabbit | coderabbit
+Vellum | vellum
+Braintrust | braintrust, braintrustdata
+Weaviate
+Qdrant
+Chroma | chroma, trychroma
+Unstructured | unstructured, unstructuredio
+LlamaIndex | llamaindex
+Crusoe | crusoe, crusoeenergy
+Vast Data | vastdata
+Etched
+Tenstorrent
+SiFive
+Lightmatter
+Ayar Labs | ayarlabs
+d-Matrix | dmatrix, d-matrix
+MatX | matx
+Rivos
+Sakana AI | sakanaai
+Nomic AI | nomic, nomicai
+Mistral AI | mistralai
+Thinking Machines Lab | thinkingmachines
+Safe Superintelligence | ssi
+Reflection AI | reflectionai, reflection
+Harmonic | harmonic, harmonicai
+World Labs | worldlabs
+Skild AI | skildai
+Field AI | fieldai
+EvenUp | evenup, evenuplaw
+Spellbook | spellbook
+Rogo | rogo
+Hebbia | hebbia
+# dev / infra / security
+Tailscale
+Teleport | teleport, gravitational
+Cribl
+Chronosphere
+Honeycomb | honeycomb, honeycombio
+Observe | observe, observeinc
+incident.io | incident, incidentio
+Rootly
+Harness | harness, harnessinc
+Buildkite
+Depot | depot
+Pulumi
+Spacelift
+Railway | railway
+Neon | neon, neondatabase
+Turso | turso, chiselstrike
+Convex | convex, convex-dev
+Prisma | greenhouse:prisma, ashby:prisma, lever:prisma  # other boards with this slug are different companies
+Hasura
+Inngest
+Trigger.dev | triggerdev
+Resend
+Clerk | clerk, clerkdev
+WorkOS | workos
+Stytch
+Descope
+Mintlify
+ReadMe | readme
+Stainless | stainless, stainlessapi
+Speakeasy | speakeasy, speakeasyapi
+Kong | kong, konghq
+ngrok
+Socket | socket, socketdev
+Endor Labs | endorlabs
+Orca Security | orcasecurity
+Sysdig
+Upwind | upwind, upwindsecurity
+Tines
+Torq | torq
+Panther | panther, pantherlabs
+Coalition | coalition, coalitioninc
+At-Bay | atbay, at-bay
+Sardine | sardine, sardineai
+Unit21 | unit21
+Middesk
+Footprint | footprint, onefootprint
+DigitalOcean | digitalocean
+Sendbird
+Freshworks
+Udemy
+Unity | unity, unity3d
+Roku
+GoDaddy
+Splunk
+Rapid7
+Tenable
+SentinelOne
+Zscaler
+Pure Storage | purestorage
+Nutanix
+Cloudera
+Couchbase
+Snowflake
+Sigma Computing | sigmacomputing, sigma
+ThoughtSpot | thoughtspot
+Monte Carlo | montecarlodata
+Atlan
+Hightouch
+Census | census, getcensus
+Prefect
+Dagster | dagster, dagsterlabs, elementl
+Astronomer
+Materialize
+MotherDuck | motherduck
+Tecton
+Coda | coda
+Pitch | pitch
+Mural | mural
+Framer
+Greenhouse Software | greenhouse
+Ashby | ashby
+Gem | gem
+Remote | remote, remotecom
+Oyster HR | oyster, oysterhr
+Culture Amp | cultureamp
+BigCommerce | greenhouse:bigcommerce, ashby:bigcommerce, lever:bigcommerce  # other boards with this slug are different companies
+Fanatics
+Patreon
+Substack
+Medium
+Quora
+Automattic
+Scopely
+Bungie
+Dapper Labs | dapperlabs
+Underdog | underdog, underdogfantasy
+PrizePicks | prizepicks
+Sleeper | sleeper
+DraftKings
+FanDuel
+Kalshi
+Polymarket
+AllTrails
+Turo
+Instawork
+Rover
+Glossier
+Warby Parker | warbyparker
+Rent the Runway | renttherunway
+ThredUp
+Grailed
+# fintech / crypto
+Column
+Increase | increase
+Lithic
+Highnote
+Synctera
+Moov | moov, moovfinancial
+Orum
+Pipe | pipe, pipetechnologies
+Rho | rho, rhobusiness
+Atomic | atomic, atomicfi
+Alpaca | alpaca, alpacamarkets
+Public | public, publiccom
+Upstart
+LendingClub
+Dave | dave
+Current | current
+Varo | varo, varomoney
+Earnest
+NerdWallet
+Bolt | bolt
+Adyen
+Checkout.com | checkoutcom, checkout
+Airwallex
+Tipalti
+Expensify
+Pilot | pilot, pilothq
+Digits | digits
+Fireblocks
+Anchorage Digital | anchorage, anchoragedigital
+Paxos
+BitGo
+Phantom
+MoonPay
+Uniswap Labs | uniswaplabs, uniswap
+Alchemy
+Aptos Labs | aptoslabs, aptos
+Mysten Labs | mystenlabs
+Offchain Labs | offchainlabs
+Flashbots
+Eigen Labs | eigenlabs
+Figure Technologies | figuretechnologies
+Gauntlet | gauntlet, gauntletnetworks
+# trading
+Susquehanna International Group | sig, susquehanna
+Tower Research Capital | towerresearchcapital, tower
+Old Mission | oldmission, oldmissioncapital
+Belvedere Trading | belvederetrading
+Chicago Trading Company | chicagotradingcompany, ctc
+PEAK6 | peak6
+Wolverine Trading | wolverinetrading
+XTX Markets | xtxmarkets
+Headlands Technologies | headlandstech, headlands
+Radix Trading | radixtrading
+Voleon | voleon
+Squarepoint Capital | squarepoint, squarepointcapital
+Schonfeld | schonfeld
+WorldQuant | worldquant
+Arrowstreet Capital | arrowstreet, arrowstreetcapital
+AQR | aqr
+Vatic Labs | vaticlabs, vatic
+Geneva Trading | genevatrading
+Flow Traders | flowtraders
+Virtu Financial | virtu, virtufinancial
+Millennium | millennium, mlp
+Balyasny | balyasny, bamfunds
+Verition | verition
+# robotics / mobility / defense / energy
+Saildrone
+Epirus
+Castelion
+Ursa Major | ursamajor, ursamajortechnologies
+Mach Industries | machindustries
+Chaos Industries | chaosindustries
+Divergent | divergent, divergent3d
+Machina Labs | machinalabs
+Bright Machines | brightmachines
+Path Robotics | pathrobotics
+Agility Robotics | agilityrobotics
+Apptronik
+Dexterity | dexterity
+Standard Bots | standardbots
+Gecko Robotics | geckorobotics
+Carbon Robotics | carbonrobotics
+Serve Robotics | serverobotics
+Kodiak Robotics | kodiak, kodiakrobotics
+Gatik
+Waabi
+Stack AV | stackav
+Motional
+May Mobility | maymobility
+Wayve
+Torc Robotics | torc, torcrobotics
+Ouster
+Aeva
+Span | span, spanio
+Slate Auto | slate, slateauto
+Harbinger | harbinger, harbingermotors
+Ascend Elements | ascendelements
+Sila Nanotechnologies | sila, silanano
+Antora Energy | antora, antoraenergy
+Fervo Energy | fervo, fervoenergy
+TAE Technologies | tae, taetechnologies
+Zap Energy | zapenergy
+Radiant Nuclear | radiant, radiantnuclear
+Oklo
+X-energy | xenergy
+Kairos Power | kairospower
+Valar Atomics | valaratomics
+Twelve | twelve, twelveco
+Charm Industrial | charmindustrial
+Watershed | watershed, watershedclimate
+Arcadia | arcadia, arcadiapower
+Palmetto
+Northwood Space | northwood, northwoodspace
+Apex Space | apex, apexspace
+True Anomaly | trueanomaly
+K2 Space | k2space
+Stoke Space | stokespace
+Inversion Space | inversionspace
+Albedo | albedo, albedospace
+Muon Space | muonspace
+Vast | vast, vastspace
+# health / bio
+Nuna
+Garner Health | garnerhealth, garner
+Carbon Health | carbonhealth
+Cerebral
+Headway | headway, findheadway
+Alma | alma, helloalma
+Grow Therapy | growtherapy
+SonderMind | sondermind
+Brightline | brightline, hellobrightline
+Galileo Health | galileo, galileohealth
+Maven Clinic | mavenclinic, maven
+Carrot Fertility | carrot, carrotfertility
+Freenome
+Grail | grail, grailbio
+Inceptive
+Generate Biomedicines | generatebiomedicines
+EvolutionaryScale | evolutionaryscale
+Xaira Therapeutics | xaira, xairatherapeutics
+Chai Discovery | chaidiscovery, chai
+Arcadia Science | arcadiascience
+Asimov | asimov
+Dyno Therapeutics | dynotherapeutics, dyno
+Enveda | enveda, envedabio
+Formation Bio | formationbio
+23andMe | 23andme
+# Utah
+Entrata
+MX Technologies | mx, mxtechnologies
+Nav | nav, navtechnologies
+Homie | homie
+Pattern | pattern, patterninc
+Owlet
+BambooHR | bamboohr
+Canopy | canopy, canopytax
+Filevine
+Awardco
+Route | route, routeapp
+Ancestry
+HealthEquity | healthequity
+Neighbor | neighbor
+Lendio
+Galileo Financial Technologies | galileofinancial, galileo-ft
+Divvy | divvy, divvyhomes
+
+# discovered 2026-11-05: largest H-1B filers with a public board (python -m vjb discover)
+ServiceNow | smartrecruiters:servicenow
+Intuitive Surgical | smartrecruiters:intuitive
+AbbVie | smartrecruiters:abbvie
+HP | greenhouse:hp
+Western Digital | smartrecruiters:westerndigital
+Mastech Digital | smartrecruiters:mastechdigital
+Samsung Semiconductor | greenhouse:samsungsemiconductor
+Microchip | smartrecruiters:microchip
+Block | greenhouse:block
+Arista Networks | smartrecruiters:aristanetworks
+GoDaddy | greenhouse:godaddy
+Northwestern Mutual | smartrecruiters:northwesternmutual
+Tanisha Systems | smartrecruiters:tanishasystems
+Experian | smartrecruiters:experian
+Turner & Townsend | smartrecruiters:turnertownsend
+AlixPartners | greenhouse:alixpartners
+
+# added 2026-11-05: tech employers to probe on the newer job boards
+Bosch | boschgroup, bosch
+Ubisoft | ubisoft2, ubisoft
+Sandisk | sandisk
+Publicis Sapient | publicisgroupe, publicissapient
+Endava | endava
+Nagarro | nagarro
+Skechers | skechers
+Equinox | equinox
+Sephora | sephora
+Visa | visa, visainc
+Wix | wix
+Fiverr | fiverr
+monday.com | mondaycom, monday
+Taboola | taboola
+Outbrain | outbrain
+AppsFlyer | appsflyer
+Checkmarx | checkmarx
+CyberArk | cyberark
+Armis | armis, armissecurity
+Axonius | axonius
+Lemonade | lemonade
+Toptal | toptal
+Andela | andela
+Typeform | typeform
+Similarweb | similarweb
+Riskified | riskified
+Forter | forter
+Papaya Global | papayaglobal
+HiBob | hibob
+Cato Networks | catonetworks
+Lightricks | lightricks
+Pagaya | pagaya
+Next Insurance | nextinsurance
+Oyster | oysterhr
+Chargebee | chargebee
+BrowserStack | browserstack
+Druva | druva
+Icertis | icertis
+Innovaccer | innovaccer
+HighRadius | highradius
+Mindtickle | mindtickle
+Whatfix | whatfix
+MoEngage | moengage
+CleverTap | clevertap
+Zeta | zeta, zetaglobal
+Uniphore | uniphore
+Observe.AI | observeai

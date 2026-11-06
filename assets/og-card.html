@@ -1,0 +1,27 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=IBM+Plex+Mono:wght@500&family=Public+Sans:wght@400;500&display=block">
+<style>
+  html, body { margin: 0; }
+  body { width: 1200px; height: 630px; background: #f3f5f6; color: #15202a; font-family: "Public Sans", sans-serif; box-sizing: border-box;
+         padding: 72px 80px; display: grid; grid-template-rows: auto auto 1fr auto; gap: 28px; }
+  .eyebrow { font: 500 22px "IBM Plex Mono", monospace; letter-spacing: 0.08em; text-transform: uppercase; color: #687681; }
+  h1 { font: 800 112px/0.95 "Archivo", sans-serif; font-stretch: 82%; letter-spacing: -0.01em; margin: 0; }
+  p { font-size: 32px; line-height: 1.35; color: #43515c; margin: 0; max-width: 980px; }
+  .stamps { display: flex; gap: 18px; align-self: end; }
+  .stamp { display: inline-flex; align-items: center; gap: 12px; border: 3px solid var(--c); border-radius: 6px; padding: 10px 18px 10px 10px;
+           font: 500 22px "IBM Plex Mono", monospace; text-transform: uppercase; letter-spacing: 0.04em; background: #fff; }
+  .ico { width: 34px; height: 34px; border-radius: 50%; background: var(--c); display: grid; place-items: center; color: #fff; }
+  .ico svg { width: 22px; height: 22px; }
+  .good { --c: #0ca30c; } .warn { --c: #fab219; } .warn .ico { color: #3a2a00; } .crit { --c: #d03b3b; }
+</style></head>
+<body>
+  <div class="eyebrow">For F-1 OPT and H-1B job seekers</div>
+  <h1>Will they sponsor?</h1>
+  <p>Every US job posting with a sponsorship verdict, from what the posting says, the employer's H-1B filings and its application form.</p>
+  <div class="stamps">
+    <span class="stamp good"><span class="ico"><svg viewBox="0 0 12 12"><path d="M2.5 6.5l2.3 2.3L9.5 3.8" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Says it sponsors</span>
+    <span class="stamp warn"><span class="ico"><svg viewBox="0 0 12 12"><path d="M2.2 6.2c1.2-1.6 2.4-1.6 3.8 0s2.6 1.6 3.8 0" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></span>Case by case</span>
+    <span class="stamp crit"><span class="ico"><svg viewBox="0 0 12 12"><path d="M3.4 3.4l5.2 5.2M8.6 3.4L3.4 8.6" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg></span>No sponsorship</span>
+  </div>
+</body></html>

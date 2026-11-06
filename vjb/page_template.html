@@ -1,0 +1,579 @@
+<title>Will They Sponsor?</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+/* Layout: a case file. Header states three findings, the board is the working surface, evidence and method follow. */
+:root {
+  --paper: #f3f5f6;
+  --surface: #ffffff;
+  --ink: #15202a;
+  --ink-2: #43515c;
+  --muted: #687681;
+  --rule: #d8dfe3;
+  --accent: #1f4e8c;
+  --accent-wash: #e5edf7;
+  --good: #0ca30c;
+  --warn: #fab219;
+  --serious: #ec835a;
+  --crit: #d03b3b;
+  --neutral: #8a969f;
+  --track: #e8edf0;
+  --display: "Archivo", "Arial Narrow", system-ui, sans-serif;
+  --body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --s1: 0.25rem; --s2: 0.5rem; --s3: 0.75rem; --s4: 1rem; --s5: 1.5rem; --s6: 2rem; --s7: 3rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0e1418; --surface: #151d23; --ink: #e4eaee; --ink-2: #b6c2ca; --muted: #8d9ba5; --rule: #27333b;
+    --accent: #8fb7ec; --accent-wash: #182a3e; --neutral: #7f8d97; --track: #1f2a31; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0e1418; --surface: #151d23; --ink: #e4eaee; --ink-2: #b6c2ca; --muted: #8d9ba5; --rule: #27333b;
+  --accent: #8fb7ec; --accent-wash: #182a3e; --neutral: #7f8d97; --track: #1f2a31; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font: 400 15px/1.55 var(--body); padding-inline: 16px; padding-block: 0 var(--s7); }
+.wrap { max-width: 1120px; margin-inline: auto; }
+a { color: var(--accent); }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+h1, h2, h3 { font-family: var(--display); font-stretch: 82%; text-wrap: balance; margin: 0; letter-spacing: -0.01em; }
+h1 { font-size: clamp(2.4rem, 6vw, 4rem); font-weight: 800; line-height: 1; }
+h2 { font-size: 1.75rem; font-weight: 750; line-height: 1.1; }
+h3 { font-size: 1.15rem; font-weight: 700; line-height: 1.2; }
+p { margin: 0; max-width: 68ch; }
+.eyebrow { font: 500 0.72rem/1.3 var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.num { font-variant-numeric: tabular-nums; }
+
+/* header */
+.top { display: grid; gap: var(--s5); padding-block: var(--s7) var(--s6); border-bottom: 1px solid var(--rule); }
+.lede { font-size: 1.08rem; color: var(--ink-2); }
+.profile { display: inline-flex; gap: var(--s2); align-items: baseline; flex-wrap: wrap; font-size: 0.9rem; color: var(--ink-2); }
+.profile b { font: 500 0.78rem var(--mono); color: var(--ink); background: var(--accent-wash); padding: 2px 8px; border-radius: 3px; }
+.stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--s4); }
+.stat { display: grid; gap: var(--s2); align-content: start; padding-top: var(--s3); border-top: 3px solid var(--ink); }
+.stat .big { font: 800 2.6rem/1 var(--display); font-stretch: 78%; font-variant-numeric: tabular-nums; }
+.stat p { font-size: 0.92rem; color: var(--ink-2); }
+nav.jump { display: flex; gap: var(--s4); flex-wrap: wrap; font: 500 0.8rem var(--mono); text-transform: uppercase; letter-spacing: 0.06em; }
+nav.jump a { text-decoration: none; border-bottom: 1px solid currentColor; }
+
+section { padding-block: var(--s6); border-bottom: 1px solid var(--rule); display: grid; gap: var(--s5); }
+.sec-head { display: grid; gap: var(--s2); }
+.sec-head p { color: var(--ink-2); }
+
+/* board */
+.board { display: grid; grid-template-columns: 300px minmax(0, 1fr); gap: var(--s6); align-items: start; }
+.side { display: grid; gap: var(--s5); position: sticky; top: calc(env(safe-area-inset-top, 0px) + var(--s4)); }
+.field { display: grid; gap: var(--s1); }
+.field label, .legend-title { font: 500 0.72rem var(--mono); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+input[type="search"], select { width: 100%; font: 400 0.95rem var(--body); color: var(--ink); background: var(--surface); border: 1px solid var(--rule); border-radius: 4px; padding: 8px 10px; }
+.fields { display: grid; gap: var(--s3); }
+
+.vchart { display: grid; gap: 6px; }
+.vrow { display: grid; grid-template-columns: 22px minmax(0, 1fr); gap: 6px; align-items: center; width: 100%; text-align: left; background: none; border: 0; padding: 3px 4px; margin: 0 -4px; border-radius: 4px; cursor: pointer; color: var(--ink); font: inherit; }
+.vrow:hover { background: var(--accent-wash); }
+.vrow[aria-pressed="false"] { opacity: 0.42; }
+.vrow .vlabel { display: flex; justify-content: space-between; gap: var(--s2); font-size: 0.84rem; line-height: 1.25; }
+.vrow .vlabel .num { color: var(--ink-2); font-family: var(--mono); font-size: 0.78rem; }
+.vrow .vbar { grid-column: 2; height: 8px; background: var(--track); border-radius: 0 4px 4px 0; overflow: hidden; }
+.vrow .vbar i { display: block; height: 100%; border-radius: 0 4px 4px 0; min-width: 2px; }
+.vhint { font-size: 0.78rem; color: var(--muted); }
+
+.ico { width: 18px; height: 18px; border-radius: 50%; display: inline-grid; place-items: center; flex: none; }
+.ico svg { width: 12px; height: 12px; }
+.t-good { --c: var(--good); } .t-warn { --c: var(--warn); } .t-serious { --c: var(--serious); } .t-crit { --c: var(--crit); } .t-neutral { --c: var(--neutral); }
+.ico { background: var(--c); color: #fff; }
+.t-warn .ico, .ico.t-warn { color: #3a2a00; }
+.vbar i { background: var(--c); }
+
+.results { display: grid; gap: var(--s3); min-width: 0; }
+.rhead { display: flex; justify-content: space-between; align-items: baseline; gap: var(--s3); flex-wrap: wrap; font-size: 0.9rem; color: var(--ink-2); }
+.rhead select { width: auto; padding: 4px 8px; font-size: 0.85rem; }
+.list { display: grid; border-top: 1px solid var(--rule); }
+.job { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: var(--s2) var(--s4); padding-block: var(--s4); border-bottom: 1px solid var(--rule); }
+.job-main { display: grid; gap: 6px; min-width: 0; }
+.job-title { font-weight: 600; font-size: 1rem; text-decoration: none; color: var(--ink); overflow-wrap: anywhere; }
+.job-title:hover { color: var(--accent); text-decoration: underline; }
+.job-meta { font-size: 0.85rem; color: var(--ink-2); display: flex; flex-wrap: wrap; gap: 2px 10px; }
+.job-meta .co { font-weight: 600; color: var(--ink); background: none; border: 0; padding: 0; font: inherit; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px; }
+.q { margin: 0; font-size: 0.86rem; font-style: italic; color: var(--ink-2); border-left: 2px solid var(--rule); padding-left: var(--s3); overflow-wrap: anywhere; }
+.hist { font: 400 0.76rem/1.4 var(--mono); color: var(--muted); }
+.stamp { display: inline-flex; align-items: center; gap: 6px; align-self: start; border: 1.5px solid var(--c); border-radius: 3px; padding: 3px 8px 3px 4px; font: 500 0.72rem/1.2 var(--mono); text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink); max-width: 15rem; background: var(--surface); }
+.more { justify-self: start; font: 500 0.85rem var(--mono); background: var(--surface); color: var(--ink); border: 1px solid var(--rule); border-radius: 4px; padding: 8px 14px; cursor: pointer; }
+.more:hover { border-color: var(--accent); }
+.empty { padding: var(--s5); color: var(--ink-2); }
+
+.cocard { display: grid; gap: var(--s3); padding: var(--s4); background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; }
+.cocard header { display: flex; justify-content: space-between; align-items: baseline; gap: var(--s3); flex-wrap: wrap; }
+.cocard dl { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: var(--s3); margin: 0; }
+.cocard dt { font: 500 0.68rem var(--mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+.cocard dd { margin: 0; font: 700 1.3rem var(--display); font-stretch: 82%; font-variant-numeric: tabular-nums; }
+.cocard .small { font-size: 0.82rem; color: var(--ink-2); }
+.rep-line { font-size: 0.8rem; color: var(--ink-2); display: flex; gap: var(--s3); flex-wrap: wrap; align-items: baseline; }
+.rep-line .rep-count { font-family: var(--mono); font-size: 0.76rem; }
+.rep-open, .rep-link { background: none; border: 0; padding: 0; font: 500 0.76rem var(--mono); color: var(--accent); cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+.repform { display: grid; gap: var(--s3); padding: var(--s3) var(--s4); background: var(--accent-wash); border-radius: 6px; font-size: 0.86rem; }
+.repform fieldset { border: 0; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: var(--s2) var(--s4); }
+.repform legend { font-weight: 600; margin-bottom: var(--s1); width: 100%; }
+.repform .row { display: flex; flex-wrap: wrap; gap: var(--s3); align-items: center; }
+.repform select { width: auto; max-width: 100%; }
+.repform button[type="submit"] { font: 600 0.85rem var(--body); background: var(--ink); color: var(--paper); border: 0; border-radius: 4px; padding: 7px 14px; cursor: pointer; }
+.repmsg { font-size: 0.82rem; color: var(--ink-2); }
+.linkish { background: none; border: 0; padding: 0; font: inherit; color: var(--accent); cursor: pointer; text-decoration: underline; }
+
+/* findings */
+.finding { display: grid; gap: var(--s3); }
+.finding > p { color: var(--ink-2); }
+.tbl { overflow-x: auto; border: 1px solid var(--rule); border-radius: 6px; background: var(--surface); }
+table { border-collapse: collapse; width: 100%; font-size: 0.86rem; }
+th, td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th { font: 500 0.7rem var(--mono); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); white-space: nowrap; }
+td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; font-family: var(--mono); font-size: 0.82rem; }
+tr:last-child td { border-bottom: 0; }
+td .quote { font-style: italic; color: var(--ink-2); }
+.two { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s6); }
+.qlist { display: grid; gap: var(--s2); margin: 0; padding: 0; list-style: none; }
+.qlist li { display: grid; grid-template-columns: 3.2rem minmax(0, 1fr); gap: var(--s3); font-size: 0.88rem; }
+.qlist .num { font-family: var(--mono); color: var(--muted); text-align: right; }
+.method { display: grid; gap: var(--s4); }
+.method ul { margin: 0; padding-left: 1.2rem; display: grid; gap: var(--s2); max-width: 75ch; color: var(--ink-2); }
+.method li b { color: var(--ink); font-weight: 600; }
+footer { padding-block: var(--s5); font-size: 0.82rem; color: var(--muted); }
+
+@media (max-width: 880px) {
+  .board { grid-template-columns: minmax(0, 1fr); }
+  .side { position: static; }
+  .two { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 640px) {
+  .stats { grid-template-columns: minmax(0, 1fr); }
+  .job { grid-template-columns: minmax(0, 1fr); }
+  .top { padding-block: var(--s6) var(--s5); }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .vrow .vbar i { transition: width 180ms ease-out; }
+}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div class="eyebrow" id="eyebrow">&nbsp;</div>
+    <h1>Will they sponsor?</h1>
+    <p class="lede">A per-posting answer instead of a per-company one. Each verdict combines what the posting itself says, the employer's H-1B wage filings (LCAs) for that kind of role, and what its application form asks.</p>
+    <div class="profile" id="profile-line"></div>
+    <div class="stats" id="stats"></div>
+    <nav class="jump" aria-label="Sections"><a href="#board">Board</a><a href="#findings">Findings</a><a href="#method">Method and limits</a></nav>
+  </header>
+
+  <section id="board" aria-labelledby="board-h">
+    <div class="sec-head">
+      <h2 id="board-h">Board</h2>
+      <p><span id="board-src">US postings from public company job boards.</span> Click a verdict to hide or show it, or a company name to see its filing history.</p>
+      <p class="repmsg" id="rep-status" hidden></p>
+    </div>
+    <div class="board">
+      <aside class="side">
+        <div class="fields">
+          <div class="field"><label for="prof">Your status</label>
+            <select id="prof">
+              <option value="opt">F-1 OPT / STEM OPT, need an H-1B later</option>
+              <option value="h1b">On H-1B, need a transfer</option>
+            </select></div>
+          <div class="field"><label for="q">Search title, company or city</label><input type="search" id="q" placeholder="e.g. backend, Stripe, new grad"></div>
+          <div class="field"><label for="fam">Role type</label>
+            <select id="fam">
+              <option value="tech">Software, data/ML and quant</option>
+              <option value="software">Software</option>
+              <option value="data_ml">Data and ML</option>
+              <option value="quant">Quant and trading</option>
+              <option value="hardware">Hardware and engineering</option>
+              <option value="product_design">Product and design</option>
+              <option value="other">Everything else</option>
+              <option value="all">All roles</option>
+            </select></div>
+          <div class="field"><label for="sen">Level</label>
+            <select id="sen">
+              <option value="all">All levels</option>
+              <option value="earlyint">New grad and intern</option>
+              <option value="early">New grad / early career</option>
+              <option value="intern">Intern / co-op</option>
+              <option value="mid">Mid</option>
+              <option value="senior">Senior and above</option>
+            </select></div>
+          <div class="field"><label for="co">Company</label><select id="co"><option value="">All companies</option></select></div>
+        </div>
+        <div class="vchart" id="vchart" role="group" aria-label="Verdicts in the current filter"></div>
+        <p class="vhint">Bars show how the postings in your current filter split. Click a row to toggle it.</p>
+      </aside>
+      <div class="results">
+        <div id="cocard"></div>
+        <div class="rhead"><span id="count" class="num">Loading postings…</span>
+          <label class="num">Sort <select id="sort" aria-label="Sort">
+            <option value="best">Best chance first</option>
+            <option value="new">Newest first</option>
+            <option value="co">Company A–Z</option>
+          </select></label></div>
+        <div class="list" id="list"><div class="empty" id="loading">Loading today's postings…</div></div>
+        <button class="more" id="more" hidden>Show 100 more</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="findings" aria-labelledby="find-h">
+    <div class="sec-head">
+      <h2 id="find-h">Findings</h2>
+      <p>What turns up when the three sources are put side by side.</p>
+    </div>
+    <div class="finding" id="f-mixed"></div>
+    <div class="finding" id="f-contra"></div>
+    <div class="finding" id="f-forms"></div>
+    <div class="finding" id="f-entry"></div>
+  </section>
+
+  <section id="method" aria-labelledby="method-h">
+    <div class="sec-head"><h2 id="method-h">Method and limits</h2></div>
+    <div class="method" id="m-body"></div>
+  </section>
+  <footer id="foot"></footer>
+</div>
+
+<script type="application/json" id="cfg">/*__CFG__*/</script>
+<script type="application/json" id="data">/*__DATA__*/</script>
+<script>
+(async function () {
+  const CFG = JSON.parse(document.getElementById("cfg").textContent.trim() || "{}");
+  const SITE = CFG.mode === "site";
+  let D;
+  const inline = document.getElementById("data").textContent.trim();
+  try {
+    D = inline ? JSON.parse(inline) : await (await fetch(`data.json?v=${encodeURIComponent(CFG.build || "")}`)).json();
+  } catch (e) {
+    document.getElementById("loading").textContent = "The postings didn't load. Reload the page to try again.";
+    document.getElementById("count").textContent = "";
+    return;
+  }
+  const B = D.board, F = D.findings;
+  const S = B.strings, C = B.companies;
+  const fmt = n => (n == null ? "–" : Number(n).toLocaleString("en-US"));
+  const pct = x => Math.round(x * 100) + "%";
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+  const ORDER = ["yes", "likely", "case", "transfer", "possible", "unknown", "no", "blocked"];
+  const TONE = { yes: "good", likely: "good", case: "warn", transfer: "warn", possible: "serious", unknown: "neutral", no: "crit", blocked: "crit" };
+  const ICON = {
+    good: '<path d="M2.5 6.5l2.3 2.3L9.5 3.8" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>',
+    warn: '<path d="M2.2 6.2c1.2-1.6 2.4-1.6 3.8 0s2.6 1.6 3.8 0" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>',
+    serious: '<circle cx="6" cy="6" r="1.6" fill="currentColor"/>',
+    neutral: '<path d="M4.3 4.6a1.8 1.8 0 113 1.4c-.7.4-1.3.8-1.3 1.6M6 9.4v.1" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>',
+    crit: '<path d="M3.4 3.4l5.2 5.2M8.6 3.4L3.4 8.6" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/>',
+  };
+  const ico = v => `<span class="ico t-${TONE[v]}" aria-hidden="true"><svg viewBox="0 0 12 12">${ICON[TONE[v]]}</svg></span>`;
+  const FAM = { software: "Software", data_ml: "Data / ML", quant: "Quant", hardware: "Hardware", product_design: "Product / design", other: "Other" };
+  const SEN = { intern: "Intern", early: "New grad", mid: "", senior: "Senior" };
+  const TECH = new Set(["software", "data_ml", "quant"]);
+  const period = F.period.lca || "the filing period";
+
+  // jobs: [co, title, loc, url, fam, sen, stance, verdict, quote, note, famLca, published, salary, verdictH1b, famTransfer]
+  const jobs = B.jobs;
+
+  // ---------------- header
+  document.getElementById("eyebrow").textContent =
+    `${SITE ? `Updated ${D.fetched}` : "Prototype"} · ${fmt(F.companies_with_us_jobs)} companies · ${fmt(F.us_postings)} US postings · H-1B filings ${period}`;
+  const ATS_NAMES = { greenhouse: "Greenhouse", ashby: "Ashby", lever: "Lever", smartrecruiters: "SmartRecruiters", workable: "Workable", recruitee: "Recruitee" };
+  const atsList = Object.entries(F.ats || {}).sort((a, b) => b[1] - a[1]).map(([a]) => ATS_NAMES[a] || a);
+  const listWords = xs => xs.length < 2 ? xs.join("") : `${xs.slice(0, -1).join(", ")} and ${xs[xs.length - 1]}`;
+  if (atsList.length) document.getElementById("board-src").textContent = `US postings from public ${listWords(atsList)} job boards${SITE ? ", refreshed daily" : ""}.`;
+  const issueURL = j => CFG.repo ? `${CFG.repo}/issues/new?` + new URLSearchParams({
+    title: `Wrong verdict: ${C[j[0]].name} – ${j[1]}`.slice(0, 200),
+    body: `Posting: ${j[3]}\nVerdict shown: ${B.verdicts.opt[j[7]]} (F-1 OPT view), ${B.verdicts.h1b[j[13]]} (H-1B view)\n\nWhat's wrong:\n`,
+  }) : "";
+  const X = F.contradiction_ex_top || { share: F.contradiction_share, contradictions: F.contradictions, company: "", strong: F.strong_tech_postings };
+  document.getElementById("stats").innerHTML = [
+    [pct(F.tech_silent_share), `of ${fmt(F.tech_postings)} US software, data and quant postings say nothing about sponsorship either way.`],
+    [pct(F.forms.future / Math.max(1, F.forms.asks)), `of sampled application forms that ask about sponsorship ask about it “now or in the future”. Someone on OPT has to answer yes.`],
+    [pct(X.share), `of tech postings at companies that filed ${D.strong}+ H-1B LCAs for that kind of role still say “no sponsorship” or “citizens only”. That's ${fmt(X.contradictions)} postings, not counting ${esc(X.company)}'s ${fmt(F.contradictions - X.contradictions)}.`],
+  ].map(([b, t]) => `<div class="stat"><div class="big">${b}</div><p>${t}</p></div>`).join("");
+
+  // ---------------- board state
+  const state = { prof: "opt", q: "", fam: "tech", sen: "all", co: "", sort: "best", off: new Set(), shown: 100 };
+  const V = j => (state.prof === "h1b" ? j[13] : j[7]);
+  const LBL = v => B.verdicts[state.prof][v];
+  const PROFILE = {
+    opt: "Verdicts are written for <b>F-1 OPT / STEM OPT</b> holders who will need a cap-subject H-1B later.",
+    h1b: "Verdicts are written for people <b>already on H-1B</b> who need the new employer to file a transfer. No lottery.",
+  };
+  try { const saved = JSON.parse(localStorage.getItem("wts-filters") || "null"); if (saved) Object.assign(state, saved, { off: new Set(saved.off || []), shown: 100 }); } catch (e) {}
+  const save = () => { try { localStorage.setItem("wts-filters", JSON.stringify({ ...state, off: [...state.off], shown: undefined })); } catch (e) {} };
+
+  const coSel = document.getElementById("co");
+  coSel.innerHTML += C.map((c, i) => [c.name, i]).sort((a, b) => a[0].localeCompare(b[0]))
+    .map(([n, i]) => `<option value="${i}">${esc(n)}</option>`).join("");
+  for (const id of ["prof", "fam", "sen", "co", "sort"]) {
+    const el = document.getElementById(id);
+    el.value = state[id];
+    el.addEventListener("change", () => { state[id] = el.value; state.shown = 100; save(); render(); });
+  }
+  const qEl = document.getElementById("q");
+  qEl.value = state.q;
+  let t;
+  qEl.addEventListener("input", () => { clearTimeout(t); t = setTimeout(() => { state.q = qEl.value.trim().toLowerCase(); state.shown = 100; save(); render(); }, 120); });
+  document.getElementById("more").addEventListener("click", () => { state.shown += 100; render(); });
+
+  function base() {
+    const q = state.q, fam = state.fam, sen = state.sen, co = state.co === "" ? -1 : +state.co;
+    return jobs.filter(j => {
+      if (co >= 0 && j[0] !== co) return false;
+      if (fam === "tech" ? !TECH.has(j[4]) : fam !== "all" && j[4] !== fam) return false;
+      if (sen === "earlyint" ? !(j[5] === "early" || j[5] === "intern") : sen !== "all" && j[5] !== sen) return false;
+      if (q && !(j[1].toLowerCase().includes(q) || C[j[0]].name.toLowerCase().includes(q) || j[2].toLowerCase().includes(q))) return false;
+      return true;
+    });
+  }
+
+  function histLine(j) {
+    const c = C[j[0]];
+    if (state.prof === "h1b") {
+      if (j[14] > 0) return `${fmt(j[14])} H-1B transfers in for ${FAM[j[4]].toLowerCase()} roles at ${esc(c.name)}, ${period} · ${fmt(c.transfer)} total`;
+      if (c.transfer > 0) return `${fmt(c.transfer)} H-1B transfers in at ${esc(c.name)}, ${period}, none for ${FAM[j[4]].toLowerCase()} roles`;
+      return `No H-1B transfers matched to ${esc(c.name)} for ${period}`;
+    }
+    if (j[10] > 0) return `${fmt(j[10])} H-1B LCAs for ${FAM[j[4]].toLowerCase()} roles at ${esc(c.name)}, ${period} · ${fmt(c.lca)} total`;
+    if (c.lca > 0) return `${fmt(c.lca)} H-1B LCAs at ${esc(c.name)}, ${period}, none matched to ${FAM[j[4]].toLowerCase()} roles`;
+    return `No H-1B LCAs matched to ${esc(c.name)} for ${period}`;
+  }
+
+  function jobHTML(j) {
+    const c = C[j[0]], v = V(j), quote = S[j[8]], note = S[j[9]];
+    const meta = [`<button class="co" data-co="${j[0]}">${esc(c.name)}</button>`, esc(j[2]), FAM[j[4]], SEN[j[5]], j[12] ? esc(j[12]) : ""].filter(Boolean)
+      .map(x => `<span>${x}</span>`).join("");
+    return `<article class="job">
+      <div class="job-main">
+        <a class="job-title" href="${esc(j[3])}" target="_blank" rel="noopener">${esc(j[1])}</a>
+        <div class="job-meta">${meta}</div>
+        ${quote ? `<blockquote class="q">“${esc(quote)}”</blockquote>` : ""}
+        ${note && !quote ? `<div class="hist">${esc(note)}</div>` : ""}
+        <div class="hist">${histLine(j)}</div>
+        ${db ? `<div class="rep-line">${repReady && repSummary(c.name) ? `<span class="rep-count">${esc(repSummary(c.name))}</span>` : ""}<button class="rep-open" data-url="${esc(j[3])}">Report what happened</button></div>`
+          : CFG.repo ? `<div class="rep-line"><a class="rep-link" href="${esc(issueURL(j))}" target="_blank" rel="noopener">Wrong verdict?</a></div>` : ""}
+        ${repOpen === j[3] ? repForm(j) : ""}
+      </div>
+      <div class="stamp t-${TONE[v]}">${ico(v)}<span>${esc(LBL(v))}</span></div>
+    </article>`;
+  }
+
+  function renderChart(rows) {
+    const counts = Object.fromEntries(ORDER.map(v => [v, 0]));
+    rows.forEach(j => counts[V(j)]++);
+    const max = Math.max(1, ...Object.values(counts));
+    const el = document.getElementById("vchart");
+    el.innerHTML = `<div class="legend-title">Verdicts</div>` + ORDER.map(v => `
+      <button class="vrow t-${TONE[v]}" data-v="${v}" aria-pressed="${!state.off.has(v)}" title="${esc(LBL(v))}: ${fmt(counts[v])} postings (${pct(counts[v] / Math.max(1, rows.length))})">
+        ${ico(v)}<span class="vlabel"><span>${esc(LBL(v))}</span><span class="num">${fmt(counts[v])}</span></span>
+        <span class="vbar"><i style="width:${(counts[v] / max) * 100}%"></i></span>
+      </button>`).join("");
+  }
+  document.getElementById("vchart").addEventListener("click", e => {
+    const b = e.target.closest(".vrow"); if (!b) return;
+    const v = b.dataset.v; state.off.has(v) ? state.off.delete(v) : state.off.add(v);
+    state.shown = 100; save(); render();
+  });
+  document.getElementById("list").addEventListener("click", e => {
+    const b = e.target.closest(".co"); if (!b) return;
+    state.co = b.dataset.co; coSel.value = state.co; state.shown = 100; save(); render();
+    const top = document.getElementById("board"); if (top.scrollIntoView) top.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+
+  function renderCompany() {
+    const el = document.getElementById("cocard");
+    if (state.co === "") { el.innerHTML = ""; return; }
+    const c = C[+state.co], f = c.form;
+    const formLine = f ? `Application form: ${f.asks}/${f.forms} sampled forms ask about sponsorship${f.future ? `, ${f.future} with “now or in the future” wording` : ""}${f.status_options ? `, ${f.status_options} let you pick your visa type` : ""}.${f.label ? ` The question reads: “${esc(f.label)}”` : ""}${f.note ? ` Help text: “${esc(f.note.slice(0, 220))}”` : ""}`
+      : (c.ats === "greenhouse" ? "Application form: not sampled." : `Application form: not visible on ${esc(ATS_NAMES[c.ats] || c.ats)}.`);
+    el.innerHTML = `<div class="cocard">
+      <header><h3>${esc(c.name)}</h3><button class="linkish" id="clearco">Show all companies</button></header>
+      <dl>
+        <div><dt>H-1B LCAs</dt><dd>${fmt(c.lca)}</dd></div>
+        <div><dt>New hires on them</dt><dd>${fmt(c.new)}</dd></div>
+        <div><dt>Transfers in</dt><dd>${fmt(c.transfer)}</dd></div>
+        <div><dt>Wage level I–II</dt><dd>${fmt(c.entry)}</dd></div>
+        <div><dt>Green card (PERM)</dt><dd>${fmt(c.perm)}</dd></div>
+      </dl>
+      <p class="small">${c.sw_lca ? `${fmt(c.sw_lca)} of the LCAs are software roles (${fmt(c.sw_entry)} at wage level I–II${c.sw_median_wage ? `, median offered wage $${fmt(c.sw_median_wage)}` : ""}). ` : ""}LCAs ${period}; PERM ${esc(F.period.perm || "")}. ${c.names && c.names.length ? `Matched filer names: ${c.names.map(esc).join("; ")}.` : "No filer names matched."}</p>
+      <p class="small">${formLine}</p>
+      ${db ? `<p class="small">${repSummary(c.name) ? esc(repSummary(c.name)) + "." : "No applicant reports for this company yet."}</p>` : ""}
+    </div>`;
+    document.getElementById("clearco").onclick = () => { state.co = ""; coSel.value = ""; save(); render(); };
+  }
+
+  // ---------------- applicant reports (shared db; hidden when unavailable)
+  const OUTCOMES = {
+    fast_reject: "Rejected within a day",
+    rejected: "Rejected later",
+    screen: "Got a screen or interview",
+    offer: "Got an offer",
+    silence: "No response after 3+ weeks",
+  };
+  const ANSWERS = { yes: "Answered yes to sponsorship", no: "Answered no", not_asked: "Form didn't ask" };
+  let db = null, me = null, reportsByCo = {}, repOpen = null, repReady = false;
+  const repStatus = document.getElementById("rep-status");
+  function indexReports(docs) {
+    reportsByCo = {};
+    for (const d of docs) {
+      const r = d.data() || {};
+      if (typeof r.company !== "string" || !OUTCOMES[r.outcome]) continue;
+      (reportsByCo[r.company] ||= []).push(r);
+    }
+  }
+  function repSummary(name) {
+    const rs = reportsByCo[name] || [];
+    if (!rs.length) return "";
+    const yes = rs.filter(r => r.answered === "yes");
+    const fast = yes.filter(r => r.outcome === "fast_reject").length;
+    const good = yes.filter(r => r.outcome === "screen" || r.outcome === "offer").length;
+    return `${fmt(rs.length)} applicant report${rs.length === 1 ? "" : "s"}` +
+      (yes.length ? ` · of ${fmt(yes.length)} who answered yes to sponsorship: ${fmt(fast)} rejected within a day, ${fmt(good)} got a screen or better` : "");
+  }
+  (async () => {
+    try { db = window.claude && window.claude.use ? await window.claude.use("db") : null; } catch (e) { db = null; }
+    if (!db) {
+      repStatus.textContent = SITE ? (CFG.repo ? "Spot a wrong verdict? Use “Wrong verdict?” under the posting and say what the posting or recruiter actually said." : "")
+        : "Applicant reports need the page open on claude.ai while signed in.";
+      repStatus.hidden = !repStatus.textContent;
+      return;
+    }
+    repStatus.hidden = false;
+    repStatus.textContent = "Loading applicant reports…";
+    try { const u = await window.claude.use("user"); me = u ? await u.id() : null; } catch (e) { me = null; }
+    const timer = setTimeout(() => { repStatus.textContent = "Applicant reports didn't load. Reload the page to try again."; }, 10000);
+    db.collection("reports").onSnapshot(snap => {
+      clearTimeout(timer);
+      indexReports(snap.docs);
+      repReady = true;
+      const n = snap.size;
+      repStatus.textContent = n ? `${fmt(n)} applicant report${n === 1 ? "" : "s"} so far. Add yours with “Report what happened” on a posting.`
+        : "No applicant reports yet. After you apply, use “Report what happened” on the posting.";
+      render();
+    }, () => { clearTimeout(timer); repStatus.textContent = "Applicant reports didn't load. Reload the page to try again."; });
+  })();
+  function repForm(j) {
+    return `<form class="repform" id="repform" data-url="${esc(j[3])}">
+      <fieldset><legend>How did you answer the sponsorship question?</legend>
+        ${Object.entries(ANSWERS).map(([k, l], i) => `<label><input type="radio" name="answered" id="rep-ans-${k}" value="${k}"${i === 0 ? " checked" : ""}> ${l}</label>`).join("")}
+      </fieldset>
+      <div class="row"><label for="rep-outcome">What happened?</label>
+        <select id="rep-outcome" name="outcome">${Object.entries(OUTCOMES).map(([k, l]) => `<option value="${k}">${l}</option>`).join("")}</select>
+        <label for="rep-status-sel">Your status</label>
+        <select id="rep-status-sel" name="status"><option value="opt">F-1 OPT / STEM OPT</option><option value="h1b">H-1B</option><option value="other">Other visa</option></select>
+      </div>
+      <div class="row"><button type="submit">Save report</button><button type="button" class="linkish" id="rep-cancel">Cancel</button><span class="repmsg" id="rep-msg"></span></div>
+    </form>`;
+  }
+  document.getElementById("list").addEventListener("click", e => {
+    const o = e.target.closest(".rep-open");
+    if (o) { repOpen = repOpen === o.dataset.url ? null : o.dataset.url; render(); return; }
+    if (e.target.id === "rep-cancel") { repOpen = null; render(); }
+  });
+  document.getElementById("list").addEventListener("submit", async e => {
+    if (e.target.id !== "repform") return;
+    e.preventDefault();
+    const f = e.target, msg = document.getElementById("rep-msg");
+    const j = jobs.find(x => x[3] === f.dataset.url);
+    if (!db || !j) return;
+    const btn = f.querySelector('button[type="submit"]');
+    btn.disabled = true; msg.textContent = "Saving…";
+    try {
+      await db.collection("reports").add({
+        company: C[j[0]].name, title: j[1], url: j[3], verdict: j[7], verdict_h1b: j[13],
+        answered: f.answered.value, outcome: f.outcome.value, status: f.status.value,
+        by: me, created_at: new Date().toISOString(),
+      });
+      repOpen = null; render();
+    } catch (err) {
+      btn.disabled = false;
+      msg.textContent = err && err.code === "invalid_argument" ? "You can view reports but not add them with your access level." : "Couldn't save. Check your connection and try again.";
+    }
+  });
+
+  const RANK = Object.fromEntries(ORDER.map((v, i) => [v, i]));
+  function render() {
+    const rows = base();
+    renderChart(rows);
+    renderCompany();
+    document.getElementById("profile-line").innerHTML = PROFILE[state.prof];
+    const hk = state.prof === "h1b" ? 14 : 10;
+    let vis = rows.filter(j => !state.off.has(V(j)));
+    if (state.sort === "best") {
+      vis.sort((a, b) => RANK[V(a)] - RANK[V(b)] || b[hk] - a[hk] || C[a[0]].name.localeCompare(C[b[0]].name));
+      // within a verdict, take one posting per company in turn so one big employer doesn't fill the page
+      const nth = new Map(), seen = {};
+      for (const j of vis) { const k = V(j) + "|" + j[0]; nth.set(j, seen[k] = (seen[k] || 0) + 1); }
+      vis.sort((a, b) => RANK[V(a)] - RANK[V(b)] || nth.get(a) - nth.get(b) || b[hk] - a[hk] || C[a[0]].name.localeCompare(C[b[0]].name));
+    }
+    else if (state.sort === "new") vis.sort((a, b) => (b[11] || "").localeCompare(a[11] || ""));
+    else vis.sort((a, b) => C[a[0]].name.localeCompare(C[b[0]].name) || a[1].localeCompare(b[1]));
+    const n = Math.min(state.shown, vis.length);
+    document.getElementById("count").textContent = `Showing ${fmt(n)} of ${fmt(vis.length)} postings`;
+    document.getElementById("list").innerHTML = vis.length ? vis.slice(0, n).map(jobHTML).join("")
+      : `<div class="empty">No postings match. Clear the search or turn verdicts back on in the chart.</div>`;
+    document.getElementById("more").hidden = n >= vis.length;
+  }
+  render();
+
+  // ---------------- findings
+  const table = (head, rows) => `<div class="tbl"><table><thead><tr>${head.map(h => `<th class="${h[1] || ""}">${h[0]}</th>`).join("")}</tr></thead><tbody>${rows.join("")}</tbody></table></div>`;
+  const byName = Object.fromEntries(F.company_table.map(c => [c.company, c]));
+
+  const mixed = F.mixed_companies.slice(0, 12);
+  document.getElementById("f-mixed").innerHTML = `
+    <h3>Same company, different answers</h3>
+    <p>${F.mixed_companies.length} companies have some US postings that say they sponsor and others that say they won't, or that require citizenship. An employer-level “sponsors” flag is wrong for one group or the other.</p>
+    ${table([["Company"], ["US postings", "n"], ["Sponsors or case by case", "n"], ["No or citizens only", "n"], ["Silent", "n"], ["H-1B LCAs", "n"]],
+      mixed.map(m => `<tr><td>${esc(m.company)}</td><td class="n">${fmt(m.postings)}</td><td class="n">${fmt(m.positive)}</td><td class="n">${fmt(m.negative)}</td><td class="n">${fmt(m.silent)}</td><td class="n">${fmt(m.lca)}</td></tr>`))}`;
+
+  const contra = F.contradiction_companies.slice(0, 15);
+  document.getElementById("f-contra").innerHTML = `
+    <h3>Files H-1Bs for the role, posts “no”</h3>
+    <p>${fmt(F.contradictions)} of ${fmt(F.strong_tech_postings)} tech postings at companies with ${D.strong}+ H-1B LCAs for the same kind of role still say no sponsorship (${fmt(F.contradiction_by_stance.no_sponsorship || 0)}) or require citizenship, a clearance or US-person status (${fmt(F.contradiction_by_stance.citizen_only || 0)}). ${esc(X.company)} accounts for ${fmt(F.contradictions - X.contradictions)} of them: it files H-1Bs, but nearly every posting is export-controlled. Without it the rate is ${pct(X.share)}. A tool that checks only filing history marks every one of these as sponsor-friendly.</p>
+    ${table([["Company"], ["Postings saying no", "n"], ["H-1B LCAs", "n"], ["Software LCAs", "n"], ["Typical wording"]],
+      contra.map(([c, n]) => { const t = byName[c] || {}; return `<tr><td>${esc(c)}</td><td class="n">${fmt(n)}</td><td class="n">${fmt(t.lca)}</td><td class="n">${fmt(t.sw_lca)}</td><td class="quote">${esc((D.contra_quotes[c] || "").slice(0, 180))}</td></tr>`; }))}`;
+
+  const fo = F.forms;
+  document.getElementById("f-forms").innerHTML = `
+    <h3>The form asks anyway</h3>
+    <div class="two">
+      <div class="finding">
+        <p>Across ${fmt(fo.forms)} sampled Greenhouse application forms from ${fmt(fo.companies)} companies, ${fmt(fo.asks)} (${pct(fo.asks / Math.max(1, fo.forms))}) ask about sponsorship and ${fmt(fo.future)} of those use “now or in the future” wording. Only ${fmt(fo.status_options)} forms let you say which visa you hold, so an OPT student who could start work tomorrow looks the same as someone who needs a visa on day one.</p>
+        <p>Forms that let you pick a visa type: ${fo.companies_status_options.map(esc).join(", ") || "none"}.</p>
+      </div>
+      <div class="finding"><div class="legend-title">Most common wording</div>
+        <ul class="qlist">${D.form_labels.map(([l, n]) => `<li><span class="num">${fmt(n)}</span><span>${esc(l)}</span></li>`).join("")}</ul></div>
+    </div>`;
+
+  const entry = F.company_table.filter(c => c.sw_entry > 0).sort((a, b) => b.sw_entry - a.sw_entry).slice(0, 15);
+  document.getElementById("f-entry").innerHTML = `
+    <h3>Who files for junior software roles</h3>
+    <p>LCAs at prevailing-wage level I or II are the closest public signal for early-career sponsorship. Under the wage-weighted H-1B lottery these entries also have worse odds, so this table shows where the junior filings are, not how likely they are to win.</p>
+    ${table([["Company"], ["Software LCAs", "n"], ["Level I–II", "n"], ["Median wage", "n"], ["Green card (PERM)", "n"], ["US tech postings", "n"]],
+      entry.map(c => `<tr><td>${esc(c.company)}</td><td class="n">${fmt(c.sw_lca)}</td><td class="n">${fmt(c.sw_entry)}</td><td class="n">${c.sw_median_wage ? "$" + fmt(c.sw_median_wage) : "–"}</td><td class="n">${fmt(c.perm)}</td><td class="n">${fmt(c.tech_postings)}</td></tr>`))}`;
+
+  // ---------------- method
+  const L = F.llm;
+  document.getElementById("m-body").innerHTML = `<ul>
+    <li><b>Postings:</b> ${fmt(F.postings)} postings from ${fmt(F.companies)} companies' public ${listWords(atsList) || "company"} job boards, fetched ${esc(D.fetched)}${SITE ? " and refreshed every day" : ""}. ${fmt(F.us_postings)} are in the US. Companies on Workday or their own career sites are missing, which leaves out most of big tech.</li>
+    <li><b>Reading the text:</b> rules pick out sentences about visas, sponsorship, work authorization, clearances and export control. ${fmt(L.judged)} postings with any such text were also read by Claude Haiku, which decides the final stance. The rules agreed with it on ${pct(L.agree / Math.max(1, L.judged))} of those.</li>
+    <li><b>Filing history:</b> DOL LCA disclosure data, certified H-1B cases decided ${period} (${fmt(F.period.lca_rows)} cases), and PERM green card cases ${esc(F.period.perm || "")}. An LCA is filed before an H-1B petition, so it shows intent, not a hire. Filer names are matched to companies by normalized name, a short alias list and tax ID, and a few matches may be wrong. October 2025 is thin because of the federal shutdown.</li>
+    <li><b>Role types:</b> both postings and LCAs are bucketed by job title (software, data/ML, quant, hardware, product/design, other), so “files for this kind of role” means the same title bucket.</li>
+    <li><b>“Likely” is a guess:</b> it means the posting is silent and the company filed ${D.strong}+ LCAs for that role type. It doesn't mean this requisition will sponsor. Reports from applicants are the missing ground truth.</li>
+    <li><b>Not legal advice.</b> Policies change faster than filings. Ask the recruiter before you spend time on an application.</li>
+  </ul>`;
+  const foot = document.getElementById("foot");
+  if (SITE) {
+    foot.innerHTML = `Updated ${esc(D.fetched)} from public company job boards and U.S. Department of Labor disclosure data. Verdicts are automated and can be wrong, and none of this is legal advice.` +
+      (CFG.repo ? ` <a href="${esc(CFG.repo)}/issues" target="_blank" rel="noopener">Report a problem</a> · <a href="${esc(CFG.repo)}" target="_blank" rel="noopener">Source</a>` : "");
+  } else {
+    foot.textContent = `Built ${D.fetched}. Prototype data; verdicts can be wrong.`;
+  }
+})();
+</script>
