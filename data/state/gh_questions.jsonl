@@ -1263,7 +1263,6 @@
 {"company": "Buildkite", "token": "buildkite", "job_id": "5440086008", "title": "Account Executive", "fetched": true, "questions": []}
 {"company": "Descope", "token": "descope", "job_id": "4463026009", "title": "Enterprise Account Executive, Northeast (US)", "fetched": true, "questions": []}
 {"company": "Descope", "token": "descope", "job_id": "4463011009", "title": "Enterprise Account Executive, North Central (US)", "fetched": true, "questions": []}
-{"company": "Descope", "token": "descope", "job_id": "4430746009", "title": "Customer Success Manager", "fetched": true, "questions": [{"label": "Will you now or in the future require employment visa sponsorship to work for Descope in the United States?", "desc": "", "required": true, "options": ["Yes", "No"], "kind": "sponsorship", "future": true, "status_options": false}]}
 {"company": "Endor Labs", "token": "endorlabs", "job_id": "4745281005", "title": "Staff Product Security Engineer", "fetched": true, "questions": []}
 {"company": "Endor Labs", "token": "endorlabs", "job_id": "4746734005", "title": "Senior Platform Engineer", "fetched": true, "questions": []}
 {"company": "Endor Labs", "token": "endorlabs", "job_id": "4691341005", "title": "Program Analysis Engineer", "fetched": true, "questions": []}
@@ -3957,3 +3956,4 @@
 {"company": "Axonius", "token": "axonius", "job_id": "8197691003", "title": "Product Marketing Manager", "fetched": true, "questions": [{"label": "Are you legally eligible to work in the United States?", "desc": "", "required": true, "options": ["Yes", "No"], "kind": "authorized", "future": false, "status_options": false}, {"label": "Do you currently need, or will someday require, Axonius to sponsor work authorization for you to continue working in the United States?", "desc": "", "required": true, "options": ["Yes", "No"], "kind": "sponsorship", "future": false, "status_options": false}]}
 {"company": "Forter", "token": "forter", "job_id": "8932731002", "title": "Director, Customer Success", "fetched": true, "questions": []}
 {"company": "Cato Networks", "token": "catonetworks", "job_id": "4997870101", "title": "Supply Chain Specialist", "fetched": true, "questions": []}
+{"company": "Torq", "token": "torq", "job_id": "6252220004", "title": "Sales Engineer, Carolinas", "fetched": true, "questions": []}
