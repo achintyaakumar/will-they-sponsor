@@ -3173,3 +3173,6 @@
 {"key": "9290385a451b0d01", "stance": "none", "opt_ok": null, "note": "Uses 'sponsors' in a sales sense; nothing about work authorization.", "quote": "", "model": "haiku"}
 {"key": "4df632d7b2edcd5b", "stance": "none", "opt_ok": null, "note": "'Leadership sponsor' refers to customer relationships, not visa sponsorship.", "quote": "", "model": "haiku"}
 {"key": "b74b4b180b231381", "stance": "none", "opt_ok": null, "note": "Marketing terminology only; nothing about work authorization.", "quote": "", "model": "haiku"}
+{"key": "1df4e516cce53b96", "stance": "none", "opt_ok": null, "note": "Generic work-authorization line for any country; no US-specific requirement stated.", "quote": "", "model": "haiku"}
+{"key": "61a177c0e04f506b", "stance": "no_sponsorship", "opt_ok": null, "note": "Explicitly refuses visa sponsorship for Fellows; OPT status not addressed.", "quote": "We do not sponsor visas for Fellows.", "model": "haiku"}
+{"key": "f1e0c388d6756751", "stance": "citizen_only", "opt_ok": false, "note": "ITAR export rules limit applicants to US citizens, green card holders, refugees, asylees.", "quote": "applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. \u00a7 1157, or (iv) Asylee under 8 U.S.C. \u00a7 1158", "model": "haiku"}
