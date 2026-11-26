@@ -7,8 +7,8 @@
   "ats": "ashby",
   "token": "1password",
   "jobs": 78,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -27,8 +27,8 @@
   "ats": "ashby",
   "token": "1x",
   "jobs": 116,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -50,11 +50,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -64,9 +64,9 @@
   ],
   "ats": "smartrecruiters",
   "token": "abbvie",
-  "jobs": 1252,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 1249,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -84,9 +84,9 @@
   ],
   "ats": "greenhouse",
   "token": "abnormalsecurity",
-  "jobs": 84,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 83,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -105,8 +105,8 @@
   "ats": "ashby",
   "token": "abridge",
   "jobs": 34,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -125,8 +125,8 @@
   "ats": "ashby",
   "token": "acorns",
   "jobs": 8,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -163,9 +163,9 @@
   ],
   "ats": "greenhouse",
   "token": "adyen",
-  "jobs": 242,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 233,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -183,9 +183,9 @@
   ],
   "ats": "lever",
   "token": "aeva",
-  "jobs": 48,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 50,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -203,9 +203,9 @@
   ],
   "ats": "greenhouse",
   "token": "affirm",
-  "jobs": 215,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 216,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -224,8 +224,8 @@
   "ats": "greenhouse",
   "token": "agilityrobotics",
   "jobs": 71,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -243,9 +243,9 @@
   ],
   "ats": "greenhouse",
   "token": "airbnb",
-  "jobs": 200,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 201,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -264,8 +264,8 @@
   "ats": "ashby",
   "token": "airbyte",
   "jobs": 14,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -284,8 +284,8 @@
   "ats": "greenhouse",
   "token": "airtable",
   "jobs": 7,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -303,9 +303,9 @@
   ],
   "ats": "ashby",
   "token": "airwallex",
-  "jobs": 507,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 511,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -323,9 +323,9 @@
   ],
   "ats": "greenhouse",
   "token": "akunacapital",
-  "jobs": 33,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 31,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -345,8 +345,8 @@
   "ats": "greenhouse",
   "token": "albedo",
   "jobs": 11,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -365,8 +365,8 @@
   "ats": "ashby",
   "token": "alchemy",
   "jobs": 17,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -385,8 +385,8 @@
   "ats": "greenhouse",
   "token": "algolia",
   "jobs": 25,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -404,9 +404,9 @@
   ],
   "ats": "greenhouse",
   "token": "alixpartners",
-  "jobs": 134,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 135,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -425,8 +425,8 @@
   "ats": "greenhouse",
   "token": "alloy",
   "jobs": 34,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -445,8 +445,8 @@
   "ats": "lever",
   "token": "alltrails",
   "jobs": 3,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -465,9 +465,9 @@
   ],
   "ats": "ashby",
   "token": "alma",
-  "jobs": 28,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 26,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -487,8 +487,8 @@
   "ats": "greenhouse",
   "token": "alpaca",
   "jobs": 69,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -508,8 +508,8 @@
   "ats": "ashby",
   "token": "ambiencehealthcare",
   "jobs": 19,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -528,8 +528,8 @@
   "ats": "ashby",
   "token": "amplitude",
   "jobs": 47,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -551,11 +551,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -567,8 +567,8 @@
   "ats": "lever",
   "token": "anchorage",
   "jobs": 19,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -587,8 +587,8 @@
   "ats": "ashby",
   "token": "andela",
   "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -607,9 +607,9 @@
   ],
   "ats": "greenhouse",
   "token": "andurilindustries",
-  "jobs": 2605,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 2598,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -627,9 +627,9 @@
   ],
   "ats": "greenhouse",
   "token": "anthropic",
-  "jobs": 636,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 634,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -648,9 +648,9 @@
   ],
   "ats": "greenhouse",
   "token": "antora",
-  "jobs": 44,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 43,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -669,8 +669,8 @@
   "ats": "ashby",
   "token": "anyscale",
   "jobs": 24,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -690,8 +690,8 @@
   "ats": "greenhouse",
   "token": "apex",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -728,9 +728,9 @@
   ],
   "ats": "greenhouse",
   "token": "appsflyer",
-  "jobs": 54,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 52,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -749,8 +749,8 @@
   "ats": "greenhouse",
   "token": "apptronik",
   "jobs": 87,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -770,8 +770,8 @@
   "ats": "greenhouse",
   "token": "aptoslabs",
   "jobs": 7,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -789,9 +789,9 @@
   ],
   "ats": "greenhouse",
   "token": "aqr",
-  "jobs": 43,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 44,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -811,8 +811,8 @@
   "ats": "lever",
   "token": "arcadia",
   "jobs": 14,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -831,8 +831,8 @@
   "ats": "greenhouse",
   "token": "arcadiascience",
   "jobs": 12,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -852,8 +852,8 @@
   "ats": "greenhouse",
   "token": "archer",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -891,8 +891,8 @@
   "ats": "smartrecruiters",
   "token": "aristanetworks",
   "jobs": 108,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -911,8 +911,8 @@
   "ats": "greenhouse",
   "token": "arizeai",
   "jobs": 20,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -932,15 +932,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -955,11 +954,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -969,9 +968,9 @@
   ],
   "ats": "greenhouse",
   "token": "asana",
-  "jobs": 110,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 109,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -993,11 +992,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -1008,8 +1007,8 @@
   "ats": "ashby",
   "token": "ashby",
   "jobs": 79,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1028,8 +1027,8 @@
   "ats": "ashby",
   "token": "asimov",
   "jobs": 9,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1048,8 +1047,8 @@
   "ats": "greenhouse",
   "token": "assemblyai",
   "jobs": 18,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1067,9 +1066,9 @@
   ],
   "ats": "greenhouse",
   "token": "astranis",
-  "jobs": 164,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 163,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1087,9 +1086,9 @@
   ],
   "ats": "ashby",
   "token": "astronomer",
-  "jobs": 23,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 22,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1109,8 +1108,8 @@
   "ats": "greenhouse",
   "token": "atbay",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1118,7 +1117,8 @@
    "smartrecruiters",
    "workable",
    "recruitee"
-  ]
+  ],
+  "fails": 0
  },
  {
   "company": "Atlan",
@@ -1127,9 +1127,9 @@
   ],
   "ats": "ashby",
   "token": "atlan",
-  "jobs": 7,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 8,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1168,8 +1168,8 @@
   "ats": "ashby",
   "token": "atomic",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1188,8 +1188,8 @@
   "ats": "greenhouse",
   "token": "attentive",
   "jobs": 29,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1212,11 +1212,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -1249,11 +1250,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -1264,8 +1266,8 @@
   "ats": "greenhouse",
   "token": "awardco",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1283,9 +1285,9 @@
   ],
   "ats": "greenhouse",
   "token": "axonius",
-  "jobs": 18,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 19,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1307,11 +1309,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -1326,11 +1329,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -1344,11 +1347,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -1358,9 +1361,9 @@
   ],
   "ats": "ashby",
   "token": "baseten",
-  "jobs": 109,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 112,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1379,8 +1382,8 @@
   "ats": "lever",
   "token": "belvederetrading",
   "jobs": 10,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1398,9 +1401,9 @@
   ],
   "ats": "ashby",
   "token": "benchling",
-  "jobs": 61,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 63,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1419,8 +1422,8 @@
   "ats": "greenhouse",
   "token": "betterment",
   "jobs": 23,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1441,7 +1444,7 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": "2026-11-05",
   "probed": [
    "greenhouse",
@@ -1479,9 +1482,9 @@
   ],
   "ats": "greenhouse",
   "token": "bitgo",
-  "jobs": 56,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 58,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1500,9 +1503,9 @@
   ],
   "ats": "ashby",
   "token": "bland",
-  "jobs": 14,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 13,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1520,9 +1523,9 @@
   ],
   "ats": "greenhouse",
   "token": "block",
-  "jobs": 186,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 183,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1563,11 +1566,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -1598,8 +1602,8 @@
   "ats": "smartrecruiters",
   "token": "boschgroup",
   "jobs": 337,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1656,9 +1660,9 @@
   ],
   "ats": "ashby",
   "token": "braintrust",
-  "jobs": 34,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 35,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1676,9 +1680,9 @@
   ],
   "ats": "greenhouse",
   "token": "braze",
-  "jobs": 351,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 350,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1696,9 +1700,9 @@
   ],
   "ats": "greenhouse",
   "token": "brex",
-  "jobs": 261,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 270,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1717,8 +1721,8 @@
   "ats": "lever",
   "token": "brightmachines",
   "jobs": 14,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1738,8 +1742,8 @@
   "ats": "ashby",
   "token": "hellobrightline",
   "jobs": 10,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1758,15 +1762,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -1777,8 +1780,8 @@
   "ats": "greenhouse",
   "token": "buildkite",
   "jobs": 12,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1816,8 +1819,8 @@
   "ats": "greenhouse",
   "token": "bungie",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1836,8 +1839,8 @@
   "ats": "greenhouse",
   "token": "calendly",
   "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1856,8 +1859,8 @@
   "ats": "greenhouse",
   "token": "calm",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1877,8 +1880,8 @@
   "ats": "greenhouse",
   "token": "canopytax",
   "jobs": 9,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1897,8 +1900,8 @@
   "ats": "smartrecruiters",
   "token": "canva",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1920,11 +1923,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -1938,11 +1941,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -1954,8 +1957,8 @@
   "ats": "greenhouse",
   "token": "carrotfertility",
   "jobs": 13,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1974,8 +1977,8 @@
   "ats": "greenhouse",
   "token": "carta",
   "jobs": 81,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -1994,8 +1997,8 @@
   "ats": "ashby",
   "token": "cartesia",
   "jobs": 21,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2017,11 +2020,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -2031,9 +2034,9 @@
   ],
   "ats": "greenhouse",
   "token": "catonetworks",
-  "jobs": 119,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 118,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2056,11 +2059,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -2074,11 +2078,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -2089,9 +2093,9 @@
   ],
   "ats": "ashby",
   "token": "cerebras",
-  "jobs": 135,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 134,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2111,8 +2115,8 @@
   "ats": "ashby",
   "token": "chaidiscovery",
   "jobs": 23,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2150,8 +2154,8 @@
   "ats": "greenhouse",
   "token": "chainguard",
   "jobs": 106,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2169,9 +2173,9 @@
   ],
   "ats": "greenhouse",
   "token": "chaosindustries",
-  "jobs": 193,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 189,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2190,8 +2194,8 @@
   "ats": "ashby",
   "token": "character",
   "jobs": 13,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2210,15 +2214,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -2229,8 +2232,8 @@
   "ats": "lever",
   "token": "charmindustrial",
   "jobs": 11,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2249,15 +2252,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -2272,11 +2274,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -2287,8 +2289,8 @@
   "ats": "greenhouse",
   "token": "checkr",
   "jobs": 38,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2330,11 +2332,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -2344,9 +2346,9 @@
   ],
   "ats": "greenhouse",
   "token": "chime",
-  "jobs": 78,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 77,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2366,8 +2368,8 @@
   "ats": "ashby",
   "token": "trychroma",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2389,11 +2391,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -2404,8 +2407,8 @@
   "ats": "ashby",
   "token": "circle",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2424,8 +2427,8 @@
   "ats": "greenhouse",
   "token": "circleci",
   "jobs": 15,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2483,8 +2486,8 @@
   "ats": "ashby",
   "token": "claylabs",
   "jobs": 62,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2504,8 +2507,8 @@
   "ats": "ashby",
   "token": "clerk",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2524,15 +2527,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -2542,9 +2544,9 @@
   ],
   "ats": "ashby",
   "token": "clickhouse",
-  "jobs": 209,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 211,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2563,8 +2565,8 @@
   "ats": "ashby",
   "token": "clickup",
   "jobs": 50,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2586,11 +2588,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -2600,9 +2603,9 @@
   ],
   "ats": "greenhouse",
   "token": "cloudflare",
-  "jobs": 517,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 528,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2621,9 +2624,9 @@
   ],
   "ats": "greenhouse",
   "token": "coalition",
-  "jobs": 40,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 41,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2642,8 +2645,8 @@
   "ats": "greenhouse",
   "token": "cockroachlabs",
   "jobs": 11,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2665,11 +2668,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -2685,11 +2689,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -2699,9 +2704,9 @@
   ],
   "ats": "ashby",
   "token": "coderabbit",
-  "jobs": 60,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 62,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2720,8 +2725,8 @@
   "ats": "ashby",
   "token": "cognition",
   "jobs": 116,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2739,9 +2744,9 @@
   ],
   "ats": "ashby",
   "token": "cohere",
-  "jobs": 121,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 123,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2778,9 +2783,9 @@
   ],
   "ats": "greenhouse",
   "token": "coinbase",
-  "jobs": 245,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 256,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2818,8 +2823,8 @@
   "ats": "ashby",
   "token": "column",
   "jobs": 23,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2916,8 +2921,8 @@
   "ats": "ashby",
   "token": "convex-dev",
   "jobs": 10,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2936,8 +2941,8 @@
   "ats": "greenhouse",
   "token": "coreweave",
   "jobs": 317,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2959,11 +2964,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -2973,9 +2979,9 @@
   ],
   "ats": "greenhouse",
   "token": "coursera",
-  "jobs": 34,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 35,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -2993,9 +2999,9 @@
   ],
   "ats": "greenhouse",
   "token": "cribl",
-  "jobs": 81,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 77,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3014,9 +3020,9 @@
   ],
   "ats": "ashby",
   "token": "crusoe",
-  "jobs": 300,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 302,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3034,9 +3040,9 @@
   ],
   "ats": "greenhouse",
   "token": "cultureamp",
-  "jobs": 30,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 29,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3055,8 +3061,8 @@
   "ats": "greenhouse",
   "token": "current",
   "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3076,8 +3082,8 @@
   "ats": "ashby",
   "token": "cursor",
   "jobs": 87,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3096,15 +3102,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -3135,8 +3140,8 @@
   "ats": "ashby",
   "token": "d-matrix",
   "jobs": 37,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3179,11 +3184,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -3197,11 +3203,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -3211,9 +3218,9 @@
   ],
   "ats": "greenhouse",
   "token": "databricks",
-  "jobs": 874,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 882,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3231,9 +3238,9 @@
   ],
   "ats": "greenhouse",
   "token": "datadog",
-  "jobs": 390,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 391,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3252,8 +3259,8 @@
   "ats": "ashby",
   "token": "dave",
   "jobs": 9,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3291,9 +3298,9 @@
   ],
   "ats": "ashby",
   "token": "decagon",
-  "jobs": 105,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 101,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3331,8 +3338,8 @@
   "ats": "ashby",
   "token": "deepgram",
   "jobs": 40,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3351,8 +3358,8 @@
   "ats": "ashby",
   "token": "depot",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3371,8 +3378,8 @@
   "ats": "greenhouse",
   "token": "descope",
   "jobs": 6,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3391,8 +3398,8 @@
   "ats": "greenhouse",
   "token": "descript",
   "jobs": 10,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3411,8 +3418,8 @@
   "ats": "smartrecruiters",
   "token": "devotedhealth",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3431,8 +3438,8 @@
   "ats": "lever",
   "token": "dexterity",
   "jobs": 14,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3454,11 +3461,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -3472,11 +3480,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -3487,8 +3496,8 @@
   "ats": "greenhouse",
   "token": "discord",
   "jobs": 30,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3507,9 +3516,9 @@
   ],
   "ats": "greenhouse",
   "token": "divergent",
-  "jobs": 147,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 149,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3532,11 +3541,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -3547,8 +3556,8 @@
   "ats": "ashby",
   "token": "docker",
   "jobs": 47,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3586,9 +3595,9 @@
   ],
   "ats": "greenhouse",
   "token": "doordashusa",
-  "jobs": 403,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 402,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3610,11 +3619,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -3625,8 +3635,8 @@
   "ats": "ashby",
   "token": "drata",
   "jobs": 23,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3645,8 +3655,8 @@
   "ats": "greenhouse",
   "token": "dropbox",
   "jobs": 51,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3665,8 +3675,8 @@
   "ats": "greenhouse",
   "token": "druva",
   "jobs": 24,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3704,8 +3714,8 @@
   "ats": "greenhouse",
   "token": "duolingo",
   "jobs": 54,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3725,8 +3735,8 @@
   "ats": "greenhouse",
   "token": "dynotherapeutics",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3745,8 +3755,8 @@
   "ats": "greenhouse",
   "token": "earnest",
   "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3768,11 +3778,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -3782,9 +3793,9 @@
   ],
   "ats": "greenhouse",
   "token": "elastic",
-  "jobs": 391,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 375,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3802,9 +3813,9 @@
   ],
   "ats": "ashby",
   "token": "elevenlabs",
-  "jobs": 117,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 114,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3823,8 +3834,8 @@
   "ats": "smartrecruiters",
   "token": "endava",
   "jobs": 7,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3842,9 +3853,9 @@
   ],
   "ats": "greenhouse",
   "token": "endorlabs",
-  "jobs": 42,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 41,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3863,8 +3874,8 @@
   "ats": "lever",
   "token": "entrata",
   "jobs": 27,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3884,8 +3895,8 @@
   "ats": "lever",
   "token": "enveda",
   "jobs": 12,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3903,9 +3914,9 @@
   ],
   "ats": "greenhouse",
   "token": "epicgames",
-  "jobs": 136,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 137,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3923,9 +3934,9 @@
   ],
   "ats": "greenhouse",
   "token": "epirus",
-  "jobs": 40,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 44,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3943,9 +3954,9 @@
   ],
   "ats": "smartrecruiters",
   "token": "equinox",
-  "jobs": 757,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 756,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -3964,8 +3975,8 @@
   "ats": "ashby",
   "token": "etched",
   "jobs": 117,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4007,11 +4018,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -4025,11 +4037,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -4040,8 +4052,8 @@
   "ats": "greenhouse",
   "token": "expel",
   "jobs": 3,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4059,9 +4071,9 @@
   ],
   "ats": "ashby",
   "token": "expensify",
-  "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 3,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4080,8 +4092,8 @@
   "ats": "smartrecruiters",
   "token": "experian",
   "jobs": 45,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4101,8 +4113,8 @@
   "ats": "ashby",
   "token": "factory",
   "jobs": 71,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4121,8 +4133,8 @@
   "ats": "greenhouse",
   "token": "faire",
   "jobs": 72,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4144,11 +4156,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -4158,9 +4171,9 @@
   ],
   "ats": "greenhouse",
   "token": "fanduel",
-  "jobs": 111,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 109,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4178,9 +4191,9 @@
   ],
   "ats": "greenhouse",
   "token": "fastly",
-  "jobs": 50,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 51,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4200,8 +4213,8 @@
   "ats": "greenhouse",
   "token": "fervoenergy",
   "jobs": 59,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4223,11 +4236,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -4237,9 +4251,9 @@
   ],
   "ats": "greenhouse",
   "token": "figma",
-  "jobs": 143,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 141,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4258,9 +4272,9 @@
   ],
   "ats": "greenhouse",
   "token": "figureai",
-  "jobs": 101,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 102,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4282,11 +4296,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -4297,8 +4311,8 @@
   "ats": "lever",
   "token": "filevine",
   "jobs": 125,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4317,8 +4331,8 @@
   "ats": "greenhouse",
   "token": "fireblocks",
   "jobs": 37,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4395,8 +4409,8 @@
   "ats": "smartrecruiters",
   "token": "fiverr",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4414,9 +4428,9 @@
   ],
   "ats": "greenhouse",
   "token": "fivetran",
-  "jobs": 210,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 201,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4438,11 +4452,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -4452,9 +4467,9 @@
   ],
   "ats": "greenhouse",
   "token": "flatironhealth",
-  "jobs": 21,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 22,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4472,9 +4487,9 @@
   ],
   "ats": "greenhouse",
   "token": "flexport",
-  "jobs": 211,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 212,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4512,8 +4527,8 @@
   "ats": "greenhouse",
   "token": "flowtraders",
   "jobs": 44,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4552,8 +4567,8 @@
   "ats": "ashby",
   "token": "footprint",
   "jobs": 17,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4571,9 +4586,9 @@
   ],
   "ats": "ashby",
   "token": "formenergy",
-  "jobs": 210,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 211,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4592,8 +4607,8 @@
   "ats": "greenhouse",
   "token": "formationbio",
   "jobs": 23,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4611,9 +4626,9 @@
   ],
   "ats": "greenhouse",
   "token": "formlabs",
-  "jobs": 278,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 281,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4632,8 +4647,8 @@
   "ats": "greenhouse",
   "token": "forter",
   "jobs": 19,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4655,11 +4670,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -4670,8 +4686,8 @@
   "ats": "greenhouse",
   "token": "freenome",
   "jobs": 27,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4690,8 +4706,8 @@
   "ats": "smartrecruiters",
   "token": "freshworks",
   "jobs": 61,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4710,8 +4726,8 @@
   "ats": "ashby",
   "token": "gainsight",
   "jobs": 18,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4734,11 +4750,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -4749,9 +4765,9 @@
   ],
   "ats": "greenhouse",
   "token": "galileo",
-  "jobs": 13,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 14,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4771,8 +4787,8 @@
   "ats": "ashby",
   "token": "gamma",
   "jobs": 19,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4792,8 +4808,8 @@
   "ats": "greenhouse",
   "token": "garnerhealth",
   "jobs": 57,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4815,11 +4831,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -4831,8 +4847,8 @@
   "ats": "lever",
   "token": "gauntlet",
   "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4854,11 +4870,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -4872,11 +4888,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -4887,8 +4904,8 @@
   "ats": "greenhouse",
   "token": "gemini",
   "jobs": 22,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4906,9 +4923,9 @@
   ],
   "ats": "greenhouse",
   "token": "generatebiomedicines",
-  "jobs": 23,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 21,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4927,8 +4944,8 @@
   "ats": "greenhouse",
   "token": "genevatrading",
   "jobs": 12,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4948,8 +4965,8 @@
   "ats": "greenhouse",
   "token": "ginkgobioworks",
   "jobs": 16,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4967,9 +4984,9 @@
   ],
   "ats": "greenhouse",
   "token": "gitlab",
-  "jobs": 244,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 241,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -4988,9 +5005,9 @@
   ],
   "ats": "greenhouse",
   "token": "gleanwork",
-  "jobs": 122,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 121,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5009,8 +5026,8 @@
   "ats": "greenhouse",
   "token": "glossier",
   "jobs": 17,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5030,8 +5047,8 @@
   "ats": "greenhouse",
   "token": "goatgroup",
   "jobs": 13,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5049,9 +5066,9 @@
   ],
   "ats": "greenhouse",
   "token": "godaddy",
-  "jobs": 24,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 29,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5072,7 +5089,7 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": "2026-11-05",
   "probed": [
    "greenhouse",
@@ -5091,8 +5108,8 @@
   "ats": "lever",
   "token": "gopuff",
   "jobs": 748,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5110,9 +5127,9 @@
   ],
   "ats": "greenhouse",
   "token": "grafanalabs",
-  "jobs": 138,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 137,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5132,8 +5149,8 @@
   "ats": "lever",
   "token": "grailbio",
   "jobs": 15,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5155,11 +5172,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -5193,11 +5211,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -5208,8 +5227,8 @@
   "ats": "greenhouse",
   "token": "greenhouse",
   "jobs": 24,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5250,11 +5269,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -5284,8 +5303,8 @@
   "ats": "greenhouse",
   "token": "gusto",
   "jobs": 86,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5324,8 +5343,8 @@
   "ats": "greenhouse",
   "token": "harbingermotors",
   "jobs": 83,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5344,9 +5363,9 @@
   ],
   "ats": "ashby",
   "token": "harmonic",
-  "jobs": 9,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 11,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5365,9 +5384,9 @@
   ],
   "ats": "greenhouse",
   "token": "harnessinc",
-  "jobs": 67,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 68,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5385,9 +5404,9 @@
   ],
   "ats": "ashby",
   "token": "harvey",
-  "jobs": 388,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 390,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5428,11 +5447,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -5447,11 +5467,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -5481,9 +5501,9 @@
   ],
   "ats": "ashby",
   "token": "headway",
-  "jobs": 87,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 88,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5505,11 +5525,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -5558,9 +5578,9 @@
   ],
   "ats": "ashby",
   "token": "helion",
-  "jobs": 65,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 64,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5578,9 +5598,9 @@
   ],
   "ats": "lever",
   "token": "hermeus",
-  "jobs": 81,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 80,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5599,9 +5619,9 @@
   ],
   "ats": "ashby",
   "token": "hex",
-  "jobs": 44,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 45,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5620,15 +5640,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -5639,8 +5658,8 @@
   "ats": "greenhouse",
   "token": "highnote",
   "jobs": 6,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5658,9 +5677,9 @@
   ],
   "ats": "greenhouse",
   "token": "highradius",
-  "jobs": 64,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 63,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5698,8 +5717,8 @@
   "ats": "ashby",
   "token": "hightouch",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5779,11 +5798,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -5795,8 +5814,8 @@
   "ats": "greenhouse",
   "token": "honeycomb",
   "jobs": 16,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5815,8 +5834,8 @@
   "ats": "greenhouse",
   "token": "hp",
   "jobs": 27,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5855,8 +5874,8 @@
   "ats": "greenhouse",
   "token": "wehrtyou",
   "jobs": 86,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5874,9 +5893,9 @@
   ],
   "ats": "workable",
   "token": "huggingface",
-  "jobs": 10,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 9,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5896,8 +5915,8 @@
   "ats": "greenhouse",
   "token": "humeai",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5915,9 +5934,9 @@
   ],
   "ats": "greenhouse",
   "token": "huntress",
-  "jobs": 44,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 43,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5936,15 +5955,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -5955,8 +5973,8 @@
   "ats": "ashby",
   "token": "ideogram",
   "jobs": 3,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5975,8 +5993,8 @@
   "ats": "greenhouse",
   "token": "imbue",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -5994,9 +6012,9 @@
   ],
   "ats": "greenhouse",
   "token": "imc",
-  "jobs": 152,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 149,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6034,8 +6052,8 @@
   "ats": "greenhouse",
   "token": "inceptive",
   "jobs": 7,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6055,8 +6073,8 @@
   "ats": "ashby",
   "token": "incident",
   "jobs": 32,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6074,9 +6092,9 @@
   ],
   "ats": "lever",
   "token": "includedhealth",
-  "jobs": 41,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 42,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6098,11 +6116,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -6113,8 +6132,8 @@
   "ats": "ashby",
   "token": "inngest",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6133,15 +6152,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -6152,8 +6170,8 @@
   "ats": "ashby",
   "token": "insitro",
   "jobs": 12,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6171,9 +6189,9 @@
   ],
   "ats": "greenhouse",
   "token": "instacart",
-  "jobs": 99,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 97,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6192,8 +6210,8 @@
   "ats": "greenhouse",
   "token": "instawork",
   "jobs": 56,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6211,9 +6229,9 @@
   ],
   "ats": "ashby",
   "token": "instructure",
-  "jobs": 52,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 51,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6231,9 +6249,9 @@
   ],
   "ats": "greenhouse",
   "token": "intercom",
-  "jobs": 132,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 133,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6251,9 +6269,9 @@
   ],
   "ats": "smartrecruiters",
   "token": "intuitive",
-  "jobs": 515,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 519,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6271,9 +6289,9 @@
   ],
   "ats": "greenhouse",
   "token": "inversionspace",
-  "jobs": 54,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 53,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6292,9 +6310,9 @@
   ],
   "ats": "greenhouse",
   "token": "invisibletech",
-  "jobs": 20,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 19,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6331,9 +6349,9 @@
   ],
   "ats": "greenhouse",
   "token": "island",
-  "jobs": 23,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 24,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6352,8 +6370,8 @@
   "ats": "ashby",
   "token": "iterable",
   "jobs": 19,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6372,8 +6390,8 @@
   "ats": "greenhouse",
   "token": "janestreet",
   "jobs": 219,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6392,8 +6410,8 @@
   "ats": "workable",
   "token": "jasper",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6411,9 +6429,9 @@
   ],
   "ats": "greenhouse",
   "token": "jfrog",
-  "jobs": 80,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 81,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6450,9 +6468,9 @@
   ],
   "ats": "greenhouse",
   "token": "jumptrading",
-  "jobs": 81,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 83,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6474,11 +6492,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -6488,9 +6506,9 @@
   ],
   "ats": "greenhouse",
   "token": "kairospower",
-  "jobs": 84,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 85,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6509,8 +6527,8 @@
   "ats": "greenhouse",
   "token": "kalshi",
   "jobs": 28,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6529,8 +6547,8 @@
   "ats": "greenhouse",
   "token": "khanacademy",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6567,9 +6585,9 @@
   ],
   "ats": "greenhouse",
   "token": "klaviyo",
-  "jobs": 124,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 123,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6589,8 +6607,8 @@
   "ats": "greenhouse",
   "token": "kodiak",
   "jobs": 52,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6609,8 +6627,8 @@
   "ats": "greenhouse",
   "token": "komodohealth",
   "jobs": 22,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6630,8 +6648,8 @@
   "ats": "ashby",
   "token": "kong",
   "jobs": 122,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6669,8 +6687,8 @@
   "ats": "greenhouse",
   "token": "labelbox",
   "jobs": 13,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6689,9 +6707,9 @@
   ],
   "ats": "ashby",
   "token": "lambda",
-  "jobs": 100,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 101,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6709,9 +6727,9 @@
   ],
   "ats": "ashby",
   "token": "langchain",
-  "jobs": 101,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 100,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6730,8 +6748,8 @@
   "ats": "greenhouse",
   "token": "lattice",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6750,8 +6768,8 @@
   "ats": "greenhouse",
   "token": "launchdarkly",
   "jobs": 35,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6769,9 +6787,9 @@
   ],
   "ats": "ashby",
   "token": "lemonade",
-  "jobs": 42,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 41,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6793,11 +6811,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -6811,11 +6830,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -6826,8 +6845,8 @@
   "ats": "greenhouse",
   "token": "lightmatter",
   "jobs": 89,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6846,15 +6865,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -6867,7 +6885,7 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": "2026-11-05",
   "probed": [
    "greenhouse",
@@ -6886,8 +6904,8 @@
   "ats": "ashby",
   "token": "linear",
   "jobs": 30,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6906,8 +6924,8 @@
   "ats": "greenhouse",
   "token": "lithic",
   "jobs": 13,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6925,9 +6943,9 @@
   ],
   "ats": "ashby",
   "token": "llamaindex",
-  "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 5,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6964,9 +6982,9 @@
   ],
   "ats": "greenhouse",
   "token": "lucidmotors",
-  "jobs": 509,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 521,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -6986,8 +7004,8 @@
   "ats": "greenhouse",
   "token": "lucidsoftware",
   "jobs": 23,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7007,8 +7025,8 @@
   "ats": "ashby",
   "token": "lumaai",
   "jobs": 10,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7027,8 +7045,8 @@
   "ats": "greenhouse",
   "token": "lyft",
   "jobs": 144,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7046,9 +7064,9 @@
   ],
   "ats": "lever",
   "token": "lyrahealth",
-  "jobs": 421,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 420,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7067,8 +7085,8 @@
   "ats": "greenhouse",
   "token": "machindustries",
   "jobs": 190,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7090,11 +7108,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -7106,8 +7124,8 @@
   "ats": "ashby",
   "token": "magic",
   "jobs": 9,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7145,8 +7163,8 @@
   "ats": "smartrecruiters",
   "token": "mastechdigital",
   "jobs": 8,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7165,8 +7183,8 @@
   "ats": "ashby",
   "token": "materialsecurity",
   "jobs": 6,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7185,8 +7203,8 @@
   "ats": "ashby",
   "token": "materialize",
   "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7205,8 +7223,8 @@
   "ats": "ashby",
   "token": "matx",
   "jobs": 39,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7226,8 +7244,8 @@
   "ats": "greenhouse",
   "token": "mavenclinic",
   "jobs": 36,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7246,8 +7264,8 @@
   "ats": "greenhouse",
   "token": "maymobility",
   "jobs": 34,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7285,8 +7303,8 @@
   "ats": "greenhouse",
   "token": "medium",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7324,8 +7342,8 @@
   "ats": "ashby",
   "token": "mercor",
   "jobs": 108,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7344,8 +7362,8 @@
   "ats": "greenhouse",
   "token": "mercury",
   "jobs": 68,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7384,8 +7402,8 @@
   "ats": "smartrecruiters",
   "token": "microchip",
   "jobs": 9,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7404,8 +7422,8 @@
   "ats": "ashby",
   "token": "middesk",
   "jobs": 17,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7428,11 +7446,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -7442,9 +7460,9 @@
   ],
   "ats": "lever",
   "token": "mindtickle",
-  "jobs": 20,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 17,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7463,8 +7481,8 @@
   "ats": "ashby",
   "token": "mintlify",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7482,9 +7500,9 @@
   ],
   "ats": "ashby",
   "token": "miro",
-  "jobs": 13,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 12,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7522,8 +7540,8 @@
   "ats": "greenhouse",
   "token": "mixpanel",
   "jobs": 41,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7542,8 +7560,8 @@
   "ats": "ashby",
   "token": "modal",
   "jobs": 53,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7562,8 +7580,8 @@
   "ats": "ashby",
   "token": "moderntreasury",
   "jobs": 6,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7582,15 +7600,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -7602,15 +7619,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -7621,8 +7637,8 @@
   "ats": "greenhouse",
   "token": "mongodb",
   "jobs": 421,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7641,8 +7657,8 @@
   "ats": "ashby",
   "token": "montecarlodata",
   "jobs": 10,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7660,9 +7676,9 @@
   ],
   "ats": "lever",
   "token": "moonpay",
-  "jobs": 21,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 22,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7685,11 +7701,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -7699,9 +7716,9 @@
   ],
   "ats": "ashby",
   "token": "motherduck",
-  "jobs": 6,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 5,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7719,9 +7736,9 @@
   ],
   "ats": "greenhouse",
   "token": "motional",
-  "jobs": 81,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 79,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7739,9 +7756,9 @@
   ],
   "ats": "greenhouse",
   "token": "mozilla",
-  "jobs": 137,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 153,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7759,9 +7776,9 @@
   ],
   "ats": "greenhouse",
   "token": "muonspace",
-  "jobs": 129,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 128,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7780,8 +7797,8 @@
   "ats": "ashby",
   "token": "mural",
   "jobs": 11,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7800,8 +7817,8 @@
   "ats": "ashby",
   "token": "mux",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7824,11 +7841,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -7839,8 +7856,8 @@
   "ats": "ashby",
   "token": "mystenlabs",
   "jobs": 9,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7859,15 +7876,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -7877,9 +7893,9 @@
   ],
   "ats": "greenhouse",
   "token": "natera",
-  "jobs": 216,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 219,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7902,11 +7918,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -7936,8 +7952,8 @@
   "ats": "lever",
   "token": "neighbor",
   "jobs": 9,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7955,9 +7971,9 @@
   ],
   "ats": "greenhouse",
   "token": "neo4j",
-  "jobs": 60,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 59,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7977,8 +7993,8 @@
   "ats": "ashby",
   "token": "neon",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -7997,8 +8013,8 @@
   "ats": "ashby",
   "token": "nerdwallet",
   "jobs": 27,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8017,8 +8033,8 @@
   "ats": "greenhouse",
   "token": "netlify",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8036,9 +8052,9 @@
   ],
   "ats": "greenhouse",
   "token": "neuralink",
-  "jobs": 78,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 75,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8056,9 +8072,9 @@
   ],
   "ats": "greenhouse",
   "token": "newrelic",
-  "jobs": 41,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 42,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8077,15 +8093,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -8096,8 +8111,8 @@
   "ats": "greenhouse",
   "token": "nextdoor",
   "jobs": 24,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8119,11 +8134,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -8154,8 +8170,8 @@
   "ats": "ashby",
   "token": "nomic",
   "jobs": 7,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8193,8 +8209,8 @@
   "ats": "smartrecruiters",
   "token": "northwesternmutual",
   "jobs": 69,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8214,8 +8230,8 @@
   "ats": "ashby",
   "token": "northwoodspace",
   "jobs": 64,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8233,9 +8249,9 @@
   ],
   "ats": "ashby",
   "token": "notion",
-  "jobs": 172,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 174,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8254,8 +8270,8 @@
   "ats": "ashby",
   "token": "nuna",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8273,9 +8289,9 @@
   ],
   "ats": "greenhouse",
   "token": "nuro",
-  "jobs": 108,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 106,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8297,11 +8313,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -8316,11 +8333,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -8331,8 +8349,8 @@
   "ats": "greenhouse",
   "token": "observeai",
   "jobs": 10,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8351,8 +8369,8 @@
   "ats": "lever",
   "token": "offchainlabs",
   "jobs": 11,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8371,8 +8389,8 @@
   "ats": "greenhouse",
   "token": "offerup",
   "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8391,8 +8409,8 @@
   "ats": "greenhouse",
   "token": "oklo",
   "jobs": 54,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8410,9 +8428,9 @@
   ],
   "ats": "greenhouse",
   "token": "okta",
-  "jobs": 369,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 360,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8435,11 +8453,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -8449,9 +8467,9 @@
   ],
   "ats": "ashby",
   "token": "openai",
-  "jobs": 877,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 876,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8507,9 +8525,9 @@
   ],
   "ats": "greenhouse",
   "token": "orcasecurity",
-  "jobs": 15,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 13,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8528,8 +8546,8 @@
   "ats": "ashby",
   "token": "orum",
   "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8549,8 +8567,8 @@
   "ats": "greenhouse",
   "token": "oscar",
   "jobs": 178,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8570,8 +8588,8 @@
   "ats": "greenhouse",
   "token": "oura",
   "jobs": 100,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8593,11 +8611,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -8608,15 +8626,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -8627,8 +8644,8 @@
   "ats": "lever",
   "token": "outreach",
   "jobs": 15,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8650,11 +8667,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -8665,15 +8682,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -8684,9 +8700,9 @@
   ],
   "ats": "ashby",
   "token": "oyster",
-  "jobs": 18,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 16,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8705,8 +8721,8 @@
   "ats": "greenhouse",
   "token": "pagaya",
   "jobs": 10,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8724,9 +8740,9 @@
   ],
   "ats": "greenhouse",
   "token": "pagerduty",
-  "jobs": 48,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 49,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8745,8 +8761,8 @@
   "ats": "lever",
   "token": "palantir",
   "jobs": 305,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8765,8 +8781,8 @@
   "ats": "greenhouse",
   "token": "palmetto",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8789,11 +8805,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -8804,15 +8821,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -8823,8 +8839,8 @@
   "ats": "greenhouse",
   "token": "pathrobotics",
   "jobs": 64,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8843,8 +8859,8 @@
   "ats": "ashby",
   "token": "patreon",
   "jobs": 21,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8863,9 +8879,9 @@
   ],
   "ats": "lever",
   "token": "pattern",
-  "jobs": 86,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 87,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8883,9 +8899,9 @@
   ],
   "ats": "ashby",
   "token": "paxos",
-  "jobs": 24,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 25,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8904,8 +8920,8 @@
   "ats": "greenhouse",
   "token": "payoneer",
   "jobs": 95,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8927,11 +8943,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -8941,9 +8957,9 @@
   ],
   "ats": "greenhouse",
   "token": "peloton",
-  "jobs": 41,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 40,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8963,8 +8979,8 @@
   "ats": "ashby",
   "token": "perplexity",
   "jobs": 150,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -8984,8 +9000,8 @@
   "ats": "ashby",
   "token": "persona",
   "jobs": 13,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9004,8 +9020,8 @@
   "ats": "ashby",
   "token": "phantom",
   "jobs": 16,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9024,8 +9040,8 @@
   "ats": "ashby",
   "token": "physicalintelligence",
   "jobs": 45,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9045,8 +9061,8 @@
   "ats": "ashby",
   "token": "pika",
   "jobs": 17,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9065,9 +9081,9 @@
   ],
   "ats": "greenhouse",
   "token": "pilothq",
-  "jobs": 7,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 6,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9086,8 +9102,8 @@
   "ats": "ashby",
   "token": "pinecone",
   "jobs": 8,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9106,8 +9122,8 @@
   "ats": "greenhouse",
   "token": "pinterest",
   "jobs": 167,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9127,8 +9143,8 @@
   "ats": "greenhouse",
   "token": "pipetechnologies",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9150,11 +9166,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -9165,8 +9182,8 @@
   "ats": "ashby",
   "token": "plaid",
   "jobs": 144,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9184,9 +9201,9 @@
   ],
   "ats": "greenhouse",
   "token": "planetscale",
-  "jobs": 8,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 7,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9243,8 +9260,8 @@
   "ats": "greenhouse",
   "token": "point72",
   "jobs": 200,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9263,8 +9280,8 @@
   "ats": "ashby",
   "token": "polymarket",
   "jobs": 33,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9284,8 +9301,8 @@
   "ats": "ashby",
   "token": "poolside",
   "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9304,8 +9321,8 @@
   "ats": "ashby",
   "token": "poshmark",
   "jobs": 21,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9343,8 +9360,8 @@
   "ats": "ashby",
   "token": "prefect",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9365,7 +9382,7 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": "2026-11-05",
   "probed": [
    "greenhouse",
@@ -9383,9 +9400,9 @@
   ],
   "ats": "greenhouse",
   "token": "prizepicks",
-  "jobs": 32,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 31,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9424,8 +9441,8 @@
   "ats": "greenhouse",
   "token": "public",
   "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9445,15 +9462,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -9467,11 +9483,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -9481,9 +9498,9 @@
   ],
   "ats": "greenhouse",
   "token": "purestorage",
-  "jobs": 390,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 396,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9520,9 +9537,9 @@
   ],
   "ats": "greenhouse",
   "token": "qualtrics",
-  "jobs": 177,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 174,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9560,8 +9577,8 @@
   "ats": "ashby",
   "token": "quora",
   "jobs": 8,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9580,8 +9597,8 @@
   "ats": "ashby",
   "token": "radai",
   "jobs": 27,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9600,9 +9617,9 @@
   ],
   "ats": "ashby",
   "token": "radiant",
-  "jobs": 45,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 44,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9624,11 +9641,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -9639,8 +9656,8 @@
   "ats": "ashby",
   "token": "railway",
   "jobs": 7,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9659,8 +9676,8 @@
   "ats": "greenhouse",
   "token": "ramp",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9682,11 +9699,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -9717,8 +9735,8 @@
   "ats": "greenhouse",
   "token": "recursionpharmaceuticals",
   "jobs": 17,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9737,8 +9755,8 @@
   "ats": "greenhouse",
   "token": "reddit",
   "jobs": 149,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9776,8 +9794,8 @@
   "ats": "ashby",
   "token": "redis",
   "jobs": 29,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9795,9 +9813,9 @@
   ],
   "ats": "greenhouse",
   "token": "redwoodmaterials",
-  "jobs": 90,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 89,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9817,8 +9835,8 @@
   "ats": "ashby",
   "token": "reflectionai",
   "jobs": 41,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9838,8 +9856,8 @@
   "ats": "ashby",
   "token": "reka",
   "jobs": 3,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9858,9 +9876,9 @@
   ],
   "ats": "greenhouse",
   "token": "relativity",
-  "jobs": 402,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 404,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9899,8 +9917,8 @@
   "ats": "greenhouse",
   "token": "remote",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9919,8 +9937,8 @@
   "ats": "ashby",
   "token": "render",
   "jobs": 39,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9939,8 +9957,8 @@
   "ats": "greenhouse",
   "token": "renttherunway",
   "jobs": 25,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9959,8 +9977,8 @@
   "ats": "ashby",
   "token": "replit",
   "jobs": 38,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -9979,8 +9997,8 @@
   "ats": "ashby",
   "token": "resend",
   "jobs": 11,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10038,8 +10056,8 @@
   "ats": "ashby",
   "token": "rho",
   "jobs": 48,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10057,9 +10075,9 @@
   ],
   "ats": "greenhouse",
   "token": "riotgames",
-  "jobs": 198,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 199,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10077,9 +10095,9 @@
   ],
   "ats": "greenhouse",
   "token": "ripple",
-  "jobs": 109,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 107,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10116,9 +10134,9 @@
   ],
   "ats": "greenhouse",
   "token": "riskified",
-  "jobs": 47,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 46,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10159,11 +10177,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -10173,9 +10192,9 @@
   ],
   "ats": "lever",
   "token": "ro",
-  "jobs": 55,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 54,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10193,9 +10212,9 @@
   ],
   "ats": "greenhouse",
   "token": "robinhood",
-  "jobs": 161,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 162,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10213,9 +10232,9 @@
   ],
   "ats": "greenhouse",
   "token": "roblox",
-  "jobs": 255,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 254,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10233,9 +10252,9 @@
   ],
   "ats": "greenhouse",
   "token": "rocketlab",
-  "jobs": 549,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 554,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10254,8 +10273,8 @@
   "ats": "ashby",
   "token": "rogo",
   "jobs": 102,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10273,9 +10292,9 @@
   ],
   "ats": "greenhouse",
   "token": "roku",
-  "jobs": 91,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 92,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10297,11 +10316,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -10313,8 +10333,8 @@
   "ats": "greenhouse",
   "token": "route",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10333,8 +10353,8 @@
   "ats": "lever",
   "token": "rover",
   "jobs": 21,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10352,9 +10372,9 @@
   ],
   "ats": "greenhouse",
   "token": "rubrik",
-  "jobs": 220,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 223,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10374,8 +10394,8 @@
   "ats": "ashby",
   "token": "runway",
   "jobs": 3,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10397,11 +10417,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -10415,11 +10436,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -10449,8 +10470,8 @@
   "ats": "greenhouse",
   "token": "sambanovasystems",
   "jobs": 90,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10468,9 +10489,9 @@
   ],
   "ats": "greenhouse",
   "token": "samsara",
-  "jobs": 294,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 299,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10489,8 +10510,8 @@
   "ats": "greenhouse",
   "token": "samsungsemiconductor",
   "jobs": 79,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10509,15 +10530,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -10528,9 +10548,9 @@
   ],
   "ats": "ashby",
   "token": "sardine",
-  "jobs": 41,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 40,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10548,9 +10568,9 @@
   ],
   "ats": "ashby",
   "token": "saronic",
-  "jobs": 309,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 312,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10568,9 +10588,9 @@
   ],
   "ats": "greenhouse",
   "token": "scaleai",
-  "jobs": 157,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 158,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10588,9 +10608,9 @@
   ],
   "ats": "greenhouse",
   "token": "schonfeld",
-  "jobs": 66,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 67,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10608,9 +10628,9 @@
   ],
   "ats": "greenhouse",
   "token": "scopely",
-  "jobs": 166,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 164,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10667,8 +10687,8 @@
   "ats": "ashby",
   "token": "semgrep",
   "jobs": 16,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10687,8 +10707,8 @@
   "ats": "greenhouse",
   "token": "sendbird",
   "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10710,11 +10730,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -10724,9 +10745,9 @@
   ],
   "ats": "ashby",
   "token": "sentry",
-  "jobs": 41,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 40,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10745,15 +10766,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -10764,8 +10784,8 @@
   "ats": "ashby",
   "token": "serverobotics",
   "jobs": 13,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10783,9 +10803,9 @@
   ],
   "ats": "smartrecruiters",
   "token": "servicenow",
-  "jobs": 543,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 541,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10804,8 +10824,8 @@
   "ats": "smartrecruiters",
   "token": "servicetitan",
   "jobs": 8,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10842,9 +10862,9 @@
   ],
   "ats": "ashby",
   "token": "sierra",
-  "jobs": 204,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 203,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10866,11 +10886,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -10881,9 +10902,9 @@
   ],
   "ats": "greenhouse",
   "token": "sigmacomputing",
-  "jobs": 85,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 84,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10903,8 +10924,8 @@
   "ats": "lever",
   "token": "sila",
   "jobs": 214,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10922,9 +10943,9 @@
   ],
   "ats": "greenhouse",
   "token": "similarweb",
-  "jobs": 58,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 57,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10943,8 +10964,8 @@
   "ats": "greenhouse",
   "token": "singlestore",
   "jobs": 42,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -10963,15 +10984,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -10985,11 +11005,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -10999,9 +11020,9 @@
   ],
   "ats": "ashby",
   "token": "skydio",
-  "jobs": 184,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 186,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11021,8 +11042,8 @@
   "ats": "ashby",
   "token": "slate",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11041,8 +11062,8 @@
   "ats": "ashby",
   "token": "sleeper",
   "jobs": 6,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11060,9 +11081,9 @@
   ],
   "ats": "greenhouse",
   "token": "smartsheet",
-  "jobs": 76,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 78,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11100,8 +11121,8 @@
   "ats": "greenhouse",
   "token": "snorkelai",
   "jobs": 39,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11119,9 +11140,9 @@
   ],
   "ats": "ashby",
   "token": "snowflake",
-  "jobs": 369,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 376,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11139,9 +11160,9 @@
   ],
   "ats": "ashby",
   "token": "snyk",
-  "jobs": 36,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 35,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11161,8 +11182,8 @@
   "ats": "greenhouse",
   "token": "socket",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11181,8 +11202,8 @@
   "ats": "ashby",
   "token": "socure",
   "jobs": 81,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11200,9 +11221,9 @@
   ],
   "ats": "greenhouse",
   "token": "sofi",
-  "jobs": 57,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 58,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11221,8 +11242,8 @@
   "ats": "ashby",
   "token": "sondermind",
   "jobs": 134,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11263,11 +11284,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -11277,9 +11299,9 @@
   ],
   "ats": "greenhouse",
   "token": "spacex",
-  "jobs": 2866,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 2889,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11299,8 +11321,8 @@
   "ats": "ashby",
   "token": "span",
   "jobs": 31,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11320,8 +11342,8 @@
   "ats": "ashby",
   "token": "speakeasy",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11343,11 +11365,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -11361,11 +11384,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -11375,9 +11399,9 @@
   ],
   "ats": "lever",
   "token": "spotify",
-  "jobs": 93,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 97,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11434,9 +11458,9 @@
   ],
   "ats": "greenhouse",
   "token": "squarepointcapital",
-  "jobs": 87,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 88,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11455,8 +11479,8 @@
   "ats": "greenhouse",
   "token": "squarespace",
   "jobs": 20,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11475,8 +11499,8 @@
   "ats": "greenhouse",
   "token": "stackav",
   "jobs": 14,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11499,11 +11523,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -11514,8 +11539,8 @@
   "ats": "ashby",
   "token": "standardbots",
   "jobs": 25,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11534,8 +11559,8 @@
   "ats": "greenhouse",
   "token": "starburst",
   "jobs": 36,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11554,8 +11579,8 @@
   "ats": "greenhouse",
   "token": "stockx",
   "jobs": 24,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11577,11 +11602,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -11592,8 +11617,8 @@
   "ats": "ashby",
   "token": "strava",
   "jobs": 29,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11611,9 +11636,9 @@
   ],
   "ats": "greenhouse",
   "token": "stripe",
-  "jobs": 772,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 768,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11635,11 +11660,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -11650,8 +11676,8 @@
   "ats": "ashby",
   "token": "substack",
   "jobs": 20,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11669,9 +11695,9 @@
   ],
   "ats": "greenhouse",
   "token": "sumologic",
-  "jobs": 25,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 26,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11689,9 +11715,9 @@
   ],
   "ats": "ashby",
   "token": "suno",
-  "jobs": 61,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 58,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11709,9 +11735,9 @@
   ],
   "ats": "ashby",
   "token": "supabase",
-  "jobs": 82,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 83,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11753,11 +11779,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -11768,8 +11794,8 @@
   "ats": "greenhouse",
   "token": "sweetgreen",
   "jobs": 70,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11788,8 +11814,8 @@
   "ats": "ashby",
   "token": "synctera",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11807,9 +11833,9 @@
   ],
   "ats": "ashby",
   "token": "synthesia",
-  "jobs": 24,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 22,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11828,8 +11854,8 @@
   "ats": "lever",
   "token": "sysdig",
   "jobs": 35,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11847,9 +11873,9 @@
   ],
   "ats": "greenhouse",
   "token": "taboola",
-  "jobs": 45,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 39,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11872,11 +11898,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -11886,9 +11912,9 @@
   ],
   "ats": "greenhouse",
   "token": "tailscale",
-  "jobs": 84,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 87,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11907,8 +11933,8 @@
   "ats": "smartrecruiters",
   "token": "tanishasystems",
   "jobs": 35,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11927,8 +11953,8 @@
   "ats": "greenhouse",
   "token": "tanium",
   "jobs": 68,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -11950,11 +11976,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -11969,11 +11996,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -11984,9 +12012,9 @@
   ],
   "ats": "ashby",
   "token": "temporal",
-  "jobs": 91,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 90,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12027,11 +12055,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -12042,8 +12071,8 @@
   "ats": "ashby",
   "token": "tennr",
   "jobs": 24,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12061,9 +12090,9 @@
   ],
   "ats": "greenhouse",
   "token": "tenstorrent",
-  "jobs": 150,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 154,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12102,8 +12131,8 @@
   "ats": "greenhouse",
   "token": "thenewyorktimes",
   "jobs": 119,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12121,9 +12150,9 @@
   ],
   "ats": "ashby",
   "token": "thinkingmachines",
-  "jobs": 59,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 60,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12145,11 +12174,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -12163,11 +12193,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -12177,9 +12208,9 @@
   ],
   "ats": "ashby",
   "token": "thumbtack",
-  "jobs": 42,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 43,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12216,9 +12247,9 @@
   ],
   "ats": "greenhouse",
   "token": "tines",
-  "jobs": 32,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 31,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12240,11 +12271,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -12255,9 +12287,9 @@
   ],
   "ats": "greenhouse",
   "token": "toast",
-  "jobs": 299,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 300,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12276,8 +12308,8 @@
   "ats": "greenhouse",
   "token": "togetherai",
   "jobs": 80,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12296,8 +12328,8 @@
   "ats": "lever",
   "token": "toptal",
   "jobs": 23,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12317,8 +12349,8 @@
   "ats": "greenhouse",
   "token": "torcrobotics",
   "jobs": 50,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12337,8 +12369,8 @@
   "ats": "greenhouse",
   "token": "torq",
   "jobs": 33,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12357,9 +12389,9 @@
   ],
   "ats": "greenhouse",
   "token": "towerresearchcapital",
-  "jobs": 93,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 94,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12378,8 +12410,8 @@
   "ats": "ashby",
   "token": "triggerdev",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12401,11 +12433,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -12417,8 +12449,8 @@
   "ats": "greenhouse",
   "token": "turing",
   "jobs": 31,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12436,9 +12468,9 @@
   ],
   "ats": "smartrecruiters",
   "token": "turnertownsend",
-  "jobs": 902,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 904,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12460,11 +12492,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -12479,11 +12512,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -12495,8 +12529,8 @@
   "ats": "ashby",
   "token": "twelve",
   "jobs": 6,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12514,9 +12548,9 @@
   ],
   "ats": "greenhouse",
   "token": "twilio",
-  "jobs": 110,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 113,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12534,9 +12568,9 @@
   ],
   "ats": "greenhouse",
   "token": "twitch",
-  "jobs": 51,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 54,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12574,8 +12608,8 @@
   "ats": "greenhouse",
   "token": "typeform",
   "jobs": 6,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12595,15 +12629,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -12614,8 +12647,8 @@
   "ats": "greenhouse",
   "token": "udemy",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12635,8 +12668,8 @@
   "ats": "greenhouse",
   "token": "underdog",
   "jobs": 9,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12655,15 +12688,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -12675,8 +12707,8 @@
   "ats": "ashby",
   "token": "uniswap",
   "jobs": 8,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12695,8 +12727,8 @@
   "ats": "ashby",
   "token": "unit",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12718,11 +12750,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -12737,11 +12770,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -12753,8 +12787,8 @@
   "ats": "ashby",
   "token": "unstructured",
   "jobs": 4,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12772,9 +12806,9 @@
   ],
   "ats": "greenhouse",
   "token": "upstart",
-  "jobs": 75,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 74,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12797,11 +12831,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -12813,8 +12848,8 @@
   "ats": "greenhouse",
   "token": "ursamajor",
   "jobs": 135,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12832,9 +12867,9 @@
   ],
   "ats": "greenhouse",
   "token": "valaratomics",
-  "jobs": 124,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 122,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12853,8 +12888,8 @@
   "ats": "ashby",
   "token": "vanta",
   "jobs": 61,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12873,8 +12908,8 @@
   "ats": "ashby",
   "token": "vapi",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12893,9 +12928,9 @@
   ],
   "ats": "greenhouse",
   "token": "vardaspace",
-  "jobs": 137,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 136,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12918,11 +12953,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -12933,9 +12969,9 @@
   ],
   "ats": "greenhouse",
   "token": "vast",
-  "jobs": 204,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 205,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -12957,11 +12993,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -12973,8 +13010,8 @@
   "ats": "greenhouse",
   "token": "vaticlabs",
   "jobs": 6,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13012,8 +13049,8 @@
   "ats": "greenhouse",
   "token": "vercel",
   "jobs": 86,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13035,11 +13072,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -13049,9 +13086,9 @@
   ],
   "ats": "greenhouse",
   "token": "verkada",
-  "jobs": 349,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 350,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13090,8 +13127,8 @@
   "ats": "greenhouse",
   "token": "virtu",
   "jobs": 40,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13111,15 +13148,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -13130,8 +13166,8 @@
   "ats": "ashby",
   "token": "voleon",
   "jobs": 62,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13150,8 +13186,8 @@
   "ats": "greenhouse",
   "token": "voxmedia",
   "jobs": 23,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13169,9 +13205,9 @@
   ],
   "ats": "lever",
   "token": "waabi",
-  "jobs": 81,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 80,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13193,11 +13229,12 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
+   "recruitee",
    "smartrecruiters",
-   "recruitee"
+   "workable"
   ]
  },
  {
@@ -13209,8 +13246,8 @@
   "ats": "greenhouse",
   "token": "warp",
   "jobs": 5,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13230,8 +13267,8 @@
   "ats": "greenhouse",
   "token": "watershed",
   "jobs": 8,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13250,8 +13287,8 @@
   "ats": "smartrecruiters",
   "token": "wayfair",
   "jobs": 1,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13269,9 +13306,9 @@
   ],
   "ats": "greenhouse",
   "token": "waymo",
-  "jobs": 358,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 356,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13290,8 +13327,8 @@
   "ats": "ashby",
   "token": "wayve",
   "jobs": 150,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13310,8 +13347,8 @@
   "ats": "lever",
   "token": "wealthfront",
   "jobs": 19,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13330,8 +13367,8 @@
   "ats": "greenhouse",
   "token": "weave",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13350,8 +13387,8 @@
   "ats": "ashby",
   "token": "weaviate",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13370,8 +13407,8 @@
   "ats": "ashby",
   "token": "webflow",
   "jobs": 31,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13409,8 +13446,8 @@
   "ats": "smartrecruiters",
   "token": "westerndigital",
   "jobs": 80,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13429,15 +13466,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -13466,9 +13502,9 @@
   ],
   "ats": "ashby",
   "token": "whoop",
-  "jobs": 108,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 107,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13487,8 +13523,8 @@
   "ats": "greenhouse",
   "token": "wikimedia",
   "jobs": 13,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13507,15 +13543,14 @@
   "ats": null,
   "token": null,
   "jobs": 0,
-  "checked": "2026-11-19",
+  "checked": "2026-11-26",
   "last_hit": null,
   "probed": [
-   "ashby",
    "greenhouse",
+   "ashby",
    "lever",
-   "recruitee",
    "smartrecruiters",
-   "workable"
+   "recruitee"
   ]
  },
  {
@@ -13526,9 +13561,9 @@
   ],
   "ats": "greenhouse",
   "token": "wizinc",
-  "jobs": 101,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 98,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13550,11 +13585,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -13565,8 +13600,8 @@
   "ats": "ashby",
   "token": "workos",
   "jobs": 26,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13585,8 +13620,8 @@
   "ats": "ashby",
   "token": "worldlabs",
   "jobs": 8,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13604,9 +13639,9 @@
   ],
   "ats": "greenhouse",
   "token": "worldquant",
-  "jobs": 79,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 78,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13625,8 +13660,8 @@
   "ats": "ashby",
   "token": "writer",
   "jobs": 45,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13648,11 +13683,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -13664,8 +13699,8 @@
   "ats": "greenhouse",
   "token": "xairatherapeutics",
   "jobs": 23,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13687,11 +13722,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -13720,9 +13755,9 @@
   ],
   "ats": "greenhouse",
   "token": "yext",
-  "jobs": 38,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 36,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13744,11 +13779,11 @@
   "checked": "2026-11-25",
   "last_hit": null,
   "probed": [
-   "greenhouse",
    "ashby",
+   "greenhouse",
    "lever",
-   "smartrecruiters",
-   "recruitee"
+   "recruitee",
+   "smartrecruiters"
   ]
  },
  {
@@ -13759,8 +13794,8 @@
   "ats": "ashby",
   "token": "zapier",
   "jobs": 9,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13780,8 +13815,8 @@
   "ats": "ashby",
   "token": "zed",
   "jobs": 2,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13820,8 +13855,8 @@
   "ats": "greenhouse",
   "token": "zetaglobal",
   "jobs": 93,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13860,8 +13895,8 @@
   "ats": "greenhouse",
   "token": "flyzipline",
   "jobs": 312,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13879,9 +13914,9 @@
   ],
   "ats": "greenhouse",
   "token": "zocdoc",
-  "jobs": 63,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 64,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13899,9 +13934,9 @@
   ],
   "ats": "lever",
   "token": "zoox",
-  "jobs": 248,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 246,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
@@ -13919,9 +13954,9 @@
   ],
   "ats": "greenhouse",
   "token": "zscaler",
-  "jobs": 393,
-  "checked": "2026-11-25",
-  "last_hit": "2026-11-25",
+  "jobs": 390,
+  "checked": "2026-11-26",
+  "last_hit": "2026-11-26",
   "probed": [
    "greenhouse",
    "ashby",
